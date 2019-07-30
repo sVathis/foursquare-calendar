@@ -300,7 +300,7 @@ module.exports = async function (context, req) {
             status: 200, /* Defaults to 200 */
             //body: "Hello from Azure " + (req.query.name || req.body.name) + "\n" + process.env['FOURSQUARE_ACCESS_TOKEN'] + "\n" +value
             headers : { 'Content-Type': 'text/calendar; charset=utf-8',
-                        'Content-Disposition': 'attachment; filename="current.ics"'},
+                        'Content-Disposition': 'attachment; filename="foursquare.ics"'},
             body: value
         };
     }

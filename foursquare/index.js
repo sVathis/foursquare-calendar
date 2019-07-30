@@ -193,7 +193,30 @@ function validateYear(year){
 
 }
 
-function prepareOptions(year, toYear) {
+function parseYear(year) {
+  switch (year) {
+    case "2009":
+    case "2010":
+    case "2011":
+    case "2012":
+    case "2013":
+    case "2014":
+    case "2015":
+    case "2016":
+    case "2017":
+    case "2018":
+    case "2019":
+      return parseInt(year);
+      break;
+    case "current":
+    default:
+      return (new Date()).getFullYear();
+      break;
+  }
+}
+
+
+function prepareOptions(fromYear, toYear) {
   var options = {
     concurrentCalls: 6,
     before: 0,
@@ -201,38 +224,22 @@ function prepareOptions(year, toYear) {
     limit: 250,
   };
 
-  var y = 0;
+  var y = ty = 0;
 
-  switch (year) {
-    case 2009:
-    case 2010:
-    case 2011:
-    case 2012:
-    case 2013:
-    case 2014:
-    case 2015:
-    case 2016:
-    case 2017:
-    case 2018:
-    case 2019:
-      y = year;
-      break;
-    case "all":
-      break;
-    case "current":
-    default:
-      y = (new Date()).getFullYear();
-      break;
+  if (fromYear == "all") {
+    y = 2009;
+    ty = (new Date()).getFullYear();
+  } else {
+    y = parseYear(fromYear);
+    toYear ? ty = parseYear(toYear) : ty = y;
   }
 
-  if (!toYear)
-    toYear=y
 
   if (y)
     {
-      options.before = new Date(parseInt(toYear),11,31,11,59,59);
+      options.before = new Date(ty,11,31,11,59,59);
       logger.debug("beforeTimestamp: " + options.before + ", epoch: " + getEpoch(options.before));
-      options.after =  new Date(parseInt(y),0,1,0,0,0);
+      options.after =  new Date(y,0,1,0,0,0);
       logger.debug("afterTimestamp: " + options.after + ", epoch: " + getEpoch(options.after));
     }
 
@@ -258,7 +265,7 @@ async function do4SQCheckins(year) {
 
         async.map(checkins,CheckinToEvent, (err,results) => {
           if (err) {
-            console.error("Error %s", err);
+            console.error("Error: %s", err);
             reject(err);
           }
 
@@ -279,11 +286,11 @@ module.exports = async function (context, req) {
 
         let details = await doSelfDetails();
 
-        let checkins = await do4SQCheckins();
+        let checkins = await do4SQCheckins(req.query.year);
 
         const { error, value } = ics.createEvents(checkins);
         if (error) {
-          console.error("Error " + util.inspect(error))
+          console.error("Error: " + error)
           context.res = {
             status: 400,
             body: error

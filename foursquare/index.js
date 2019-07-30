@@ -258,7 +258,7 @@ async function do4SQCheckins(year) {
 
         async.map(checkins,CheckinToEvent, (err,results) => {
           if (err) {
-            console.error("Error $", err);
+            console.error("Error %s", err);
             reject(err);
           }
 
@@ -290,8 +290,11 @@ module.exports = async function (context, req) {
           }
         }
         context.res = {
-            // status: 200, /* Defaults to 200 */
-            body: "Hello from Azure " + (req.query.name || req.body.name) + "\n" + process.env['FOURSQUARE_ACCESS_TOKEN'] + "\n" +value
+            status: 200, /* Defaults to 200 */
+            //body: "Hello from Azure " + (req.query.name || req.body.name) + "\n" + process.env['FOURSQUARE_ACCESS_TOKEN'] + "\n" +value
+            headers : { 'Content-Type': 'text/calendar; charset=utf-8',
+                        'Content-Disposition': 'attachment; filename="current.ics"'},
+            body: value
         };
     }
     else {

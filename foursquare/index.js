@@ -31,7 +31,7 @@ var user_url;
 
 var event_cnt =0;
 
-function doSelfDetails() {
+async function doSelfDetails() {
 
   return new Promise( function(resolve, reject) {
     Foursquare.Users.getSelfDetails(ACCESS_TOKEN, function (error, details) {
@@ -240,24 +240,26 @@ function prepareOptions(year, toYear) {
 }
 
 
-function do4SQCheckins(year) {
+async function do4SQCheckins(year) {
 
-    var options = prepareOptions(year);
+  var options = prepareOptions(year);
 
-    return new Promise(function(resolve, reject) {
+  return new Promise(function(resolve, reject) {
+
     retrieveCheckins(options, ACCESS_TOKEN, function (error, checkins) {
 
-    if (error) {
-      console.error("Error: %s",error);
-      reject(error);
-    }
+      if (error) {
+        console.error("Error: %s",error);
+        reject(error);
+      }
 
-    if (checkins) {
-      console.log("Data length: %d", checkins.length);
+      if (checkins) {
+        console.log("Data length: %d", checkins.length);
 
-      async.map(checkins,CheckinToEvent, (err,results) => {
-        if (err)
-          console.error("Error " + util.inspect(err));
+        async.map(checkins,CheckinToEvent, (err,results) => {
+          if (err)
+            console.error("Error " + util.inspect(err));
+
           if (results) {
             const { error, calendar } = ics.createEvents(results);
             if (error) {
@@ -279,17 +281,22 @@ module.exports = async function (context, req) {
 
     if (req.query.name || (req.body && req.body.name)) {
 
-        var urer_url, event_cnt
-        var details = doSelfDetails();
+        let details = await doSelfDetails();
 
-        details.then(()=> console.log(user_url));
-        var doer = do4SQCheckins();
-        doer.then(()=> 
+        let checkins = await do4SQCheckins();
+
+        const { error, value } = ics.createEvents(checkins);
+        if (error) {
+          console.error("Error " + util.inspect(error))
+          context.res = {
+            status: 400,
+            body: error
+          }
+        }
         context.res = {
             // status: 200, /* Defaults to 200 */
-            body: "Hello from Azure " + (req.query.name || req.body.name) + "\n" + process.env['FOURSQUARE_ACCESS_TOKEN']
-
-        });
+            body: "Hello from Azure " + (req.query.name || req.body.name) + "\n" + process.env['FOURSQUARE_ACCESS_TOKEN'] + "\n" +value
+        };
     }
     else {
         context.res = {
@@ -297,4 +304,4 @@ module.exports = async function (context, req) {
             body: "Please pass a name on the query string or in the request body"
         };
     }
-};
+}

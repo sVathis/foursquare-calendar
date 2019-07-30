@@ -261,12 +261,6 @@ async function do4SQCheckins(year) {
             console.error("Error " + util.inspect(err));
 
           if (results) {
-            const { error, calendar } = ics.createEvents(results);
-            if (error) {
-              console.error("Error " + util.inspect(error))
-            }
-
-            //writeFileSync("event.ics", calendar)
             resolve(results);
           }
         });

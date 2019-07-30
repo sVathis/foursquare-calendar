@@ -257,8 +257,10 @@ async function do4SQCheckins(year) {
         console.log("Data length: %d", checkins.length);
 
         async.map(checkins,CheckinToEvent, (err,results) => {
-          if (err)
-            console.error("Error " + util.inspect(err));
+          if (err) {
+            console.error("Error $", err);
+            reject(err);
+          }
 
           if (results) {
             resolve(results);

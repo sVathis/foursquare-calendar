@@ -4,11 +4,12 @@ var
     util = require('util'),
     nodeFoursquare = require('node-foursquare'),
     logger = require('winston')
+    framework = require('../framework')
 
 
 
 
-const config = {
+var config = {
     'secrets' : {
       'clientId' : process.env.FOURSQUARE_CLIENT_ID,
       'clientSecret' : process.env.FOURSQUARE_CLIENT_SECRET,
@@ -91,11 +92,6 @@ async function CheckinToEvent(checkin, callback) {
     }
 }
 
-
-function getEpoch(date) {
-  return Math.round(date.getTime() / 1000);
-}
-
 async function retrieveCheckinSet(offset, options, accessToken, callback) {
   logger.debug("ENTERING: retrieveCheckinSet, offset=" + offset);
 
@@ -105,9 +101,9 @@ async function retrieveCheckinSet(offset, options, accessToken, callback) {
   };
 
   if (options.before)
-    params.beforeTimestamp = getEpoch(options.before);
+    params.beforeTimestamp = framework.getEpoch(options.before);
   if (options.after)
-    params.afterTimestamp = getEpoch(options.after);
+    params.afterTimestamp = framework.getEpoch(options.after);
 
   Foursquare.Users.getSelfCheckins(params, accessToken, function success(error, results) {
     if(error) {
@@ -119,162 +115,9 @@ async function retrieveCheckinSet(offset, options, accessToken, callback) {
   });
 }
 
-async function retrieveCheckins(options, accessToken, callback) {
-  logger.debug("ENTERING: getCheckins");
-
-  options = options || {};
-
-  var coreOffset = 0,
-    queuePass = true,
-    passTotal = 0,
-    allResults = [];
-
-  async.whilst(
-    async function() {
-      passTotal++;
-      return queuePass;
-    },
-    function(callback) {
-      var passes = [],
-        rc = function(callback) {
-          retrieveCheckinSet(coreOffset, options, accessToken, callback);
-          coreOffset += options.limit;
-        };
-      // TODO: This looks and feels STUPID. Alternative?
-      for(var i = 0; i < options.concurrentCalls; i++) {
-        passes.push(rc);
-      }
-
-      async.parallel(passes, function(error, checkins) {
-        if(!error) {
-          checkins.forEach(function(checkinSet) {
-            queuePass = (checkinSet.length == options.limit);
-            allResults = allResults.concat(checkinSet);
-          });
-        }
-        callback(error, checkins);
-      });
-    },
-    function(error) {
-      logger.info("RETRIEVED: " + allResults.length + " checkins in " + passTotal + " pass(es) of " + options.concurrentCalls + " calls each.");
-      if(error) {
-        logger.error(error);
-        callback(error);
-      }
-      else {
-        callback(null, allResults);
-      }
-    }
-  );
-}
-
-function validateYear(year){
-  switch (year) {
-    case 2009:
-    case 2010:
-    case 2011:
-    case 2012:
-    case 2013:
-    case 2014:
-    case 2015:
-    case 2016:
-    case 2017:
-    case 2018:
-    case 2019:
-    case "all":
-    case "current":
-      break;
-    default:
-      throw ValidationError(year + "is not a valid year");
-      break;
-  }
-
-}
-
-function parseYear(year) {
-  switch (year) {
-    case "2009":
-    case "2010":
-    case "2011":
-    case "2012":
-    case "2013":
-    case "2014":
-    case "2015":
-    case "2016":
-    case "2017":
-    case "2018":
-    case "2019":
-      return parseInt(year);
-      break;
-    case "current":
-    default:
-      return (new Date()).getFullYear();
-      break;
-  }
-}
-
-
-function prepareOptions(fromYear, toYear) {
-  var options = {
-    concurrentCalls: 6,
-    before: 0,
-    after: 0,
-    limit: 250,
-  };
-
-  var y = ty = 0;
-
-  if (fromYear == "all") {
-    y = 2009;
-    ty = (new Date()).getFullYear();
-  } else {
-    y = parseYear(fromYear);
-    toYear ? ty = parseYear(toYear) : ty = y;
-  }
-
-
-  if (y)
-    {
-      options.before = new Date(ty,11,31,11,59,59);
-      logger.debug("beforeTimestamp: " + options.before + ", epoch: " + getEpoch(options.before));
-      options.after =  new Date(y,0,1,0,0,0);
-      logger.debug("afterTimestamp: " + options.after + ", epoch: " + getEpoch(options.after));
-    }
-
-    return options;
-}
-
-
 async function doCheckins(year) {
-
-  var options = prepareOptions(year);
-
-  return new Promise(function(resolve, reject) {
-
-    retrieveCheckins(options, ACCESS_TOKEN, function (error, checkins) {
-
-      if (error) {
-        console.error("Error: %s",error);
-        reject(error);
-      }
-
-      if (checkins) {
-        console.log("Data length: %d", checkins.length);
-
-        async.map(checkins,CheckinToEvent, (err,results) => {
-          if (err) {
-            console.error("Error: %s", err);
-            reject(err);
-          }
-
-          if (results) {
-            resolve(results);
-          }
-        });
-      }
-    });
-  })
+  return framework.generateEvents(year,retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN)
 };
 
-module.exports = {doCheckins, doSelfDetails};
+module.exports = {doCheckins, doSelfDetails, config};
 

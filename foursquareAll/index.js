@@ -1,16 +1,26 @@
-module.exports = async function (context, req) {
-    context.log('JavaScript HTTP trigger function processed a request.');
+var
+    ics = require('ics'),
+    foursquare = require('../foursquare/foursquare')
 
-    if (req.query.name || (req.body && req.body.name)) {
-        context.res = {
-            // status: 200, /* Defaults to 200 */
-            body: "Hello " + (req.query.name || req.body.name)
-        };
+module.exports = async function (context, req) {
+  context.log('Requesting all Foursquare events');
+
+    let details = await foursquare.doSelfDetails();
+
+    let checkins = await foursquare.get("all","all");
+
+    const { error, value } = ics.createEvents(checkins);
+    if (error) {
+      console.error("Error: " + error)
+      context.res = {
+        status: 400,
+        body: error
+      }
     }
-    else {
-        context.res = {
-            status: 400,
-            body: "Please pass a name on the query string or in the request body"
-        };
-    }
+    context.res = {
+        status: 200, /* Defaults to 200 */
+        headers : { 'Content-Type': 'text/calendar; charset=utf-8',
+                    'Content-Disposition': 'attachment; filename="all.ics"'},
+        body: value
+    };
 };

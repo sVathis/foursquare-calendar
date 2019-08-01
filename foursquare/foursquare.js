@@ -115,9 +115,9 @@ async function retrieveCheckinSet(offset, options, accessToken, callback) {
   });
 }
 
-async function doCheckins(year) {
-  return framework.generateEvents(year,retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN)
+async function get(fromYear, toYear) {
+  return framework.generateEvents(fromYear, toYear, retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN)
 };
 
-module.exports = {doCheckins, doSelfDetails, config};
+module.exports = {get, doSelfDetails, config};
 

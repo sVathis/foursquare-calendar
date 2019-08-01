@@ -79,6 +79,8 @@ function validateYear(year){
 }
 
 function parseYear(year) {
+  if (typeof(year) == "number")
+    return year;
   switch (year) {
     case "2009":
     case "2010":
@@ -92,11 +94,11 @@ function parseYear(year) {
     case "2018":
     case "2019":
       return parseInt(year);
-      break;
+    case "all":
+      return 0;
     case "current":
     default:
       return (new Date()).getFullYear();
-      break;
   }
 }
 
@@ -111,30 +113,27 @@ function prepareOptions(fromYear, toYear) {
 
   var y = ty = 0;
 
-  if (fromYear == "all") {
-    y = 2009;
-    ty = (new Date()).getFullYear();
-  } else {
-    y = parseYear(fromYear);
-    toYear ? ty = parseYear(toYear) : ty = y;
-  }
+  y = parseYear(fromYear);
+  toYear ? ty = parseYear(toYear) : ty = y;
 
 
-  if (y)
+  if (ty)
     {
       options.before = new Date(ty,11,31,11,59,59);
       logger.debug("beforeTimestamp: " + options.before + ", epoch: " + getEpoch(options.before));
+    }
+  if (y) {
       options.after =  new Date(y,0,1,0,0,0);
       logger.debug("afterTimestamp: " + options.after + ", epoch: " + getEpoch(options.after));
     }
 
-    return options;
+  return options;
 }
 
 
-async function generateEvents(year,retrieveItemSetFunc, itemToEventFunc, access_token) {
+async function generateEvents(fromYear, toYear, retrieveItemSetFunc, itemToEventFunc, access_token) {
 
-  var options = prepareOptions(year);
+  var options = prepareOptions(fromYear, toYear);
 
   return new Promise(function(resolve, reject) {
 

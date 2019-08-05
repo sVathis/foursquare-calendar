@@ -6,5 +6,6 @@ func init --source-control --worker-runtime node --language javascript
 func azure storage fetch-connection-string svathiscalendar
 func new --name foursquare -l javascript --template "Http Trigger"
 func new --name foursquareAll -l javascript --template "Http Trigger"
-func new --name foursquareByUear -l javascript --template "Http Trigger"
+func new --name foursquareByYear -l javascript --template "Http Trigger"
+func new --name foursquareYears -l javascript --template "Http Trigger"
 func azure functionapp publish svathis-calendar --nozip --javascript

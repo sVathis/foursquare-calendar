@@ -1,15 +1,16 @@
 {
-  "name": "",
+  "name": "svathis-calendar",
   "version": "",
   "description": "",
   "scripts": {
-    "test": "echo \"No tests yet...\""
+    "test": "jest"
   },
   "author": "",
   "dependencies": {
     "async": "^3.1.0",
     "fs": "0.0.1-security",
     "ics": "^2.15.1",
+    "jest": "^24.9.0",
     "moment": "^2.24.0",
     "node-foursquare": "^0.4.6",
     "request": "^2.88.0",

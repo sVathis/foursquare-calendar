@@ -1,4 +1,4 @@
 module.exports = {
     log: jest.fn(),
-    winston: jest.fn()
+    bindingData : { year: 2010}
 };

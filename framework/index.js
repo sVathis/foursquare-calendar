@@ -1,6 +1,13 @@
 var
     async = require("async"),
-    logger = require('winston')
+    winston = require('winston')
+
+
+
+var logger = winston.createLogger({
+      transports: [
+        new winston.transports.Console()]
+    });
 
 function getEpoch(date) {
     return Math.round(date.getTime() / 1000);

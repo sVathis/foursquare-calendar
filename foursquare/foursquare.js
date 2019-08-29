@@ -3,7 +3,7 @@ var
     moment = require('moment'),
     util = require('util'),
     nodeFoursquare = require('node-foursquare'),
-    logger = require('winston')
+    winston = require('winston'),
     framework = require('../framework')
 
 
@@ -17,7 +17,7 @@ var config = {
     },
     winston : {
         all: {
-          level: 'trace',
+          level: 'info'
         }
   }
 }
@@ -29,6 +29,11 @@ var Foursquare = nodeFoursquare(config);
 var user_url;
 
 var event_cnt =0;
+
+var logger = winston.createLogger({
+    transports: [
+      new winston.transports.Console()]
+  });
 
 async function doSelfDetails() {
 
@@ -93,7 +98,7 @@ async function CheckinToEvent(checkin, callback) {
 }
 
 async function retrieveCheckinSet(offset, options, accessToken, callback) {
-  logger.debug("ENTERING: retrieveCheckinSet, offset=" + offset);
+  logger.info("ENTERING: retrieveCheckinSet, offset=" + offset);
 
   var params = {
     "limit" : options.limit,

@@ -1,0 +1,4536 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:4d1b85904ff98cfaed01b33e
+SUMMARY:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίου «Χ
+	αρίλαος Τρικούπης»)
+DTSTAMP:20190829T121100Z
+DTSTART:20101229T190100Z
+DTEND:20101229T190100Z
+DESCRIPTION:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίο
+	υ «Χαρίλαος Τρικούπης»)\nΓέφυρα Ρίου-Αντιρρίου (Α5/E55)\, Ρίο - Αντίρριο\n
+	https://foursquare.com/svathis/checkin/4d1b85904ff98cfaed01b33e
+URL:https://foursquare.com/svathis/checkin/4d1b85904ff98cfaed01b33e
+GEO:38.32139027890896;21.772842407226562
+LOCATION:Γέφυρα Ρίου-Αντιρρίου (Α5/E55), Ρίο - Αντίρριο
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1b5f701683a143abbc7c51
+SUMMARY:Χάνι Τερόβου (Chani Terovou) (Χάνι Τερόβου)
+DTSTAMP:20190829T121100Z
+DTSTART:20101229T161800Z
+DTEND:20101229T161800Z
+DESCRIPTION:Χάνι Τερόβου (Chani Terovou) (Χάνι Τερόβου)\n455 00 Ιωάννινα\, 
+	Ιωάννινα\nhttps://foursquare.com/svathis/checkin/4d1b5f701683a143abbc7c51
+URL:https://foursquare.com/svathis/checkin/4d1b5f701683a143abbc7c51
+GEO:39.4207171484171;20.844735888420015
+LOCATION:455 00 Ιωάννινα, Ιωάννινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1b1b1295d5f04d3b1eba82
+SUMMARY:Alpha Estate (Κτήμα Άλφα)
+DTSTAMP:20190829T121100Z
+DTSTART:20101229T112700Z
+DTEND:20101229T112700Z
+DESCRIPTION:Alpha Estate (Κτήμα Άλφα)\n2ο χλμ. Αμυνταίου-Αγίου Παντελεήμωνο
+	ς\, 532 00 Αμύνταιο\, Φλώρινα\nhttps://foursquare.com/svathis/checkin/4d1b
+	1b1295d5f04d3b1eba82
+URL:https://foursquare.com/svathis/checkin/4d1b1b1295d5f04d3b1eba82
+GEO:40.694456322377334;21.706628256144423
+LOCATION:2ο χλμ. Αμυνταίου-Αγίου Παντελεήμωνος, 532 00 Αμύνταιο, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1b0e2d2a52b60ca13ff4ff
+SUMMARY:Alpha Estate (Κτήμα Άλφα)
+DTSTAMP:20190829T121100Z
+DTSTART:20101229T103200Z
+DTEND:20101229T103200Z
+DESCRIPTION:Alpha Estate (Κτήμα Άλφα)\n2ο χλμ. Αμυνταίου-Αγίου Παντελεήμωνο
+	ς\, 532 00 Αμύνταιο\, Φλώρινα\nhttps://foursquare.com/svathis/checkin/4d1b
+	0e2d2a52b60ca13ff4ff
+URL:https://foursquare.com/svathis/checkin/4d1b0e2d2a52b60ca13ff4ff
+GEO:40.694456322377334;21.706628256144423
+LOCATION:2ο χλμ. Αμυνταίου-Αγίου Παντελεήμωνος, 532 00 Αμύνταιο, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d19e7128312236adda26fba
+SUMMARY:BoCafe
+DTSTAMP:20190829T121100Z
+DTSTART:20101228T133300Z
+DTEND:20101228T133300Z
+DESCRIPTION:BoCafe\nΠαύλου Μελά 57\, 531 00 Φλώρινα\, Φλώρινα\nhttps://four
+	square.com/svathis/checkin/4d19e7128312236adda26fba
+URL:https://foursquare.com/svathis/checkin/4d19e7128312236adda26fba
+GEO:40.780021275306396;21.408750938556867
+LOCATION:Παύλου Μελά 57, 531 00 Φλώρινα, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d19c8ae816af04de7c85fc2
+SUMMARY:Chale Tottis
+DTSTAMP:20190829T121100Z
+DTSTART:20101228T112300Z
+DTEND:20101228T112300Z
+DESCRIPTION:Chale Tottis\nVigla Pisoderi\nhttps://foursquare.com/svathis/ch
+	eckin/4d19c8ae816af04de7c85fc2
+URL:https://foursquare.com/svathis/checkin/4d19c8ae816af04de7c85fc2
+GEO:40.77172526090745;21.26756706298081
+LOCATION:Vigla Pisoderi
+END:VEVENT
+BEGIN:VEVENT
+UID:4d18b6336c8b5481cf3df3cc
+SUMMARY:Kontosoros (Κοντοσώρος)
+DTSTAMP:20190829T121100Z
+DTSTART:20101227T155200Z
+DTEND:20101227T155200Z
+DESCRIPTION:Kontosoros (Κοντοσώρος)\nΑμυνταίου-Ξινού Νερού\, 530 72 Ξινό Νε
+	ρό\, Φλώρινα\nhttps://foursquare.com/svathis/checkin/4d18b6336c8b5481cf3df
+	3cc
+URL:https://foursquare.com/svathis/checkin/4d18b6336c8b5481cf3df3cc
+GEO:40.69192848110566;21.626356180158343
+LOCATION:Αμυνταίου-Ξινού Νερού, 530 72 Ξινό Νερό, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d189fd5cc216ea8e55e77d3
+SUMMARY:Cafe Χόβολη
+DTSTAMP:20190829T121100Z
+DTSTART:20101227T141600Z
+DTEND:20101227T141600Z
+DESCRIPTION:Cafe Χόβολη\nΠαλαιός Άγιος Αθανάσιος\nhttps://foursquare.com/sv
+	athis/checkin/4d189fd5cc216ea8e55e77d3
+URL:https://foursquare.com/svathis/checkin/4d189fd5cc216ea8e55e77d3
+GEO:40.84095710734298;21.77020821510733
+LOCATION:Παλαιός Άγιος Αθανάσιος
+END:VEVENT
+BEGIN:VEVENT
+UID:4d189de7bb488cfaec1db6d4
+SUMMARY:Cafe Χόβολη
+DTSTAMP:20190829T121100Z
+DTSTART:20101227T140800Z
+DTEND:20101227T140800Z
+DESCRIPTION:Cafe Χόβολη\nΠαλαιός Άγιος Αθανάσιος\nhttps://foursquare.com/sv
+	athis/checkin/4d189de7bb488cfaec1db6d4
+URL:https://foursquare.com/svathis/checkin/4d189de7bb488cfaec1db6d4
+GEO:40.84095710734298;21.77020821510733
+LOCATION:Παλαιός Άγιος Αθανάσιος
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1858a6e190721eeb4e2121
+SUMMARY:Pozar baths (Λουτρά Πόζαρ)
+DTSTAMP:20190829T121100Z
+DTSTART:20101227T091300Z
+DTEND:20101227T091300Z
+DESCRIPTION:Pozar baths (Λουτρά Πόζαρ)\n584 00 Λουτρά Λουτρακίου\, Πέλλα\nh
+	ttps://foursquare.com/svathis/checkin/4d1858a6e190721eeb4e2121
+URL:https://foursquare.com/svathis/checkin/4d1858a6e190721eeb4e2121
+GEO:40.97081902826249;21.916713727876107
+LOCATION:584 00 Λουτρά Λουτρακίου, Πέλλα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d17923325cda143ea0578d6
+SUMMARY:Thomas (Θωμάς)
+DTSTAMP:20190829T121100Z
+DTSTART:20101226T190600Z
+DTEND:20101226T190600Z
+DESCRIPTION:Thomas (Θωμάς)\n18ο χλμ Αμύνταιου-Καστοριάς\, 530 75 Σκλήθρο\, 
+	Φλώρινα\nhttps://foursquare.com/svathis/checkin/4d17923325cda143ea0578d6
+URL:https://foursquare.com/svathis/checkin/4d17923325cda143ea0578d6
+GEO:40.62470869552334;21.501542196687154
+LOCATION:18ο χλμ Αμύνταιου-Καστοριάς, 530 75 Σκλήθρο, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d178298816af04dbaaf4fc2
+SUMMARY:Thomas (Θωμάς)
+DTSTAMP:20190829T121100Z
+DTSTART:20101226T175900Z
+DTEND:20101226T175900Z
+DESCRIPTION:Thomas (Θωμάς)\n18ο χλμ Αμύνταιου-Καστοριάς\, 530 75 Σκλήθρο\, 
+	Φλώρινα\nhttps://foursquare.com/svathis/checkin/4d178298816af04dbaaf4fc2
+URL:https://foursquare.com/svathis/checkin/4d178298816af04dbaaf4fc2
+GEO:40.62470869552334;21.501542196687154
+LOCATION:18ο χλμ Αμύνταιου-Καστοριάς, 530 75 Σκλήθρο, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d177fa7bb64224b63c0c065
+SUMMARY:Thomas (Θωμάς)
+DTSTAMP:20190829T121100Z
+DTSTART:20101226T174700Z
+DTEND:20101226T174700Z
+DESCRIPTION:Thomas (Θωμάς)\n18ο χλμ Αμύνταιου-Καστοριάς\, 530 75 Σκλήθρο\, 
+	Φλώρινα\nhttps://foursquare.com/svathis/checkin/4d177fa7bb64224b63c0c065
+URL:https://foursquare.com/svathis/checkin/4d177fa7bb64224b63c0c065
+GEO:40.62470869552334;21.501542196687154
+LOCATION:18ο χλμ Αμύνταιου-Καστοριάς, 530 75 Σκλήθρο, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d175e49302da1cdb64cbb93
+SUMMARY:Λέσχη Φίλων Περιβάλλοντος
+DTSTAMP:20190829T121100Z
+DTSTART:20101226T152400Z
+DTEND:20101226T152400Z
+DESCRIPTION:Λέσχη Φίλων Περιβάλλοντος\nΠροφήτης Ηλίας\, 521 00 Καστοριά\, Κ
+	αστοριά\nhttps://foursquare.com/svathis/checkin/4d175e49302da1cdb64cbb93
+URL:https://foursquare.com/svathis/checkin/4d175e49302da1cdb64cbb93
+GEO:40.52258989195057;21.276000014320505
+LOCATION:Προφήτης Ηλίας, 521 00 Καστοριά, Καστοριά
+END:VEVENT
+BEGIN:VEVENT
+UID:4d173c471356a09325a0da82
+SUMMARY:Baccara
+DTSTAMP:20190829T121100Z
+DTSTART:20101226T125900Z
+DTEND:20101226T125900Z
+DESCRIPTION:Baccara\nΜεγάλου Αλεξάνδρου 71\, 521 00 Καστοριά\, Καστοριά\nht
+	tps://foursquare.com/svathis/checkin/4d173c471356a09325a0da82
+URL:https://foursquare.com/svathis/checkin/4d173c471356a09325a0da82
+GEO:40.51857413904046;21.26476248858531
+LOCATION:Μεγάλου Αλεξάνδρου 71, 521 00 Καστοριά, Καστοριά
+END:VEVENT
+BEGIN:VEVENT
+UID:4d15e90f6c8b54810059e1cc
+SUMMARY:Nymfeo (Νυμφαίο)
+DTSTAMP:20190829T121100Z
+DTSTART:20101225T125200Z
+DTEND:20101225T125200Z
+DESCRIPTION:Nymfeo (Νυμφαίο)\n530 75 Φλώρινα\, Φλώρινα\nhttps://foursquare.
+	com/svathis/checkin/4d15e90f6c8b54810059e1cc
+URL:https://foursquare.com/svathis/checkin/4d15e90f6c8b54810059e1cc
+GEO:40.64373518248658;21.493977698292767
+LOCATION:530 75 Φλώρινα, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d15df558312236a15aa54ba
+SUMMARY:Καταφύγιο της Καφέ Αρκούδας
+DTSTAMP:20190829T121100Z
+DTSTART:20101225T121100Z
+DTEND:20101225T121100Z
+DESCRIPTION:Καταφύγιο της Καφέ Αρκούδας\nΝυμφαίο\, Νυμφαίο\, Φλώρινα\nhttps
+	://foursquare.com/svathis/checkin/4d15df558312236a15aa54ba
+URL:https://foursquare.com/svathis/checkin/4d15df558312236a15aa54ba
+GEO:40.65211655803048;21.503029173185524
+LOCATION:Νυμφαίο, Νυμφαίο, Φλώρινα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d13165c12916dcbb52ddb8a
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101223T092900Z
+DTEND:20101223T092900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d13165c12916dcbb52ddb8a
+URL:https://foursquare.com/svathis/checkin/4d13165c12916dcbb52ddb8a
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0f14de9302a35dcc4d736e
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101220T083300Z
+DTEND:20101220T083300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d0f14de9302a35dcc4d736e
+URL:https://foursquare.com/svathis/checkin/4d0f14de9302a35dcc4d736e
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0e75303a1d236a33254e30
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101219T211200Z
+DTEND:20101219T211200Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4d0e75303a1d236a33254e30
+URL:https://foursquare.com/svathis/checkin/4d0e75303a1d236a33254e30
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0e1fa73905b1f7ef159e4b
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101219T150700Z
+DTEND:20101219T150700Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4d0e1fa73905b1f7ef159e4b
+URL:https://foursquare.com/svathis/checkin/4d0e1fa73905b1f7ef159e4b
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0dcaf995c1a1cdc56704ff
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20101219T090600Z
+DTEND:20101219T090600Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4d0dcaf995c1a1cdc56704ff
+URL:https://foursquare.com/svathis/checkin/4d0dcaf995c1a1cdc56704ff
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0d4590bdbfa35dcdb06872
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101218T233600Z
+DTEND:20101218T233600Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4d0d4590bdbfa35dcdb06872
+URL:https://foursquare.com/svathis/checkin/4d0d4590bdbfa35dcdb06872
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0d24ebd515236a3f9e0b4b
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20101218T211700Z
+DTEND:20101218T211700Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4d0d24ebd515236a3f9
+	e0b4b
+URL:https://foursquare.com/svathis/checkin/4d0d24ebd515236a3f9e0b4b
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0be29c3bc0b60c1c0cd174
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101217T222200Z
+DTEND:20101217T222200Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4d0be29c3bc0b60c1c0cd174
+URL:https://foursquare.com/svathis/checkin/4d0be29c3bc0b60c1c0cd174
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0b2cd4b93b224b0e634abf
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101217T092600Z
+DTEND:20101217T092600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d0b2cd4b93b224b0e634abf
+URL:https://foursquare.com/svathis/checkin/4d0b2cd4b93b224b0e634abf
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d09dc4164716ea8290fdd10
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101216T093000Z
+DTEND:20101216T093000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d09dc4164716ea8290fdd10
+URL:https://foursquare.com/svathis/checkin/4d09dc4164716ea8290fdd10
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d08809600e6b1f77cdd0dd7
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101215T084700Z
+DTEND:20101215T084700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d08809600e6b1f77cdd0dd7
+URL:https://foursquare.com/svathis/checkin/4d08809600e6b1f77cdd0dd7
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d072d7228926ea8ef2679c2
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101214T084000Z
+DTEND:20101214T084000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d072d7228926ea8ef2679c2
+URL:https://foursquare.com/svathis/checkin/4d072d7228926ea8ef2679c2
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d05e6c3c2e53704bfb2c067
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101213T092600Z
+DTEND:20101213T092600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d05e6c3c2e53704bfb2c067
+URL:https://foursquare.com/svathis/checkin/4d05e6c3c2e53704bfb2c067
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d04be008620224b43c5aa40
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20101212T122000Z
+DTEND:20101212T122000Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4d04be008620224b43c5aa40
+URL:https://foursquare.com/svathis/checkin/4d04be008620224b43c5aa40
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d04a76e37036dcbca4112fb
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20101212T104300Z
+DTEND:20101212T104300Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d04a76e37036dcbca4112fb
+URL:https://foursquare.com/svathis/checkin/4d04a76e37036dcbca4112fb
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d04304e54d0236ab6c0edd5
+SUMMARY:HÔTEL RITZ
+DTSTAMP:20190829T121100Z
+DTSTART:20101212T021500Z
+DTEND:20101212T021500Z
+DESCRIPTION:HÔTEL RITZ\n15 place Vendôme\, 75001 Paris\, France\nhttps://fo
+	ursquare.com/svathis/checkin/4d04304e54d0236ab6c0edd5
+URL:https://foursquare.com/svathis/checkin/4d04304e54d0236ab6c0edd5
+GEO:48.86790480783149;2.328951358795166
+LOCATION:15 place Vendôme, 75001 Paris, France
+END:VEVENT
+BEGIN:VEVENT
+UID:4d03f19830a58cfa153a9ce7
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20101211T214800Z
+DTEND:20101211T214800Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4d03f19830a58cfa153
+	a9ce7
+URL:https://foursquare.com/svathis/checkin/4d03f19830a58cfa153a9ce7
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d03e9c5347da1cdfc81288f
+SUMMARY:Don Camillo e Peppone
+DTSTAMP:20190829T121100Z
+DTSTART:20101211T211400Z
+DTEND:20101211T211400Z
+DESCRIPTION:Don Camillo e Peppone\nGermanou 78\, 262 22 Πάτρα\, Αχαΐα\nhttp
+	s://foursquare.com/svathis/checkin/4d03e9c5347da1cdfc81288f
+URL:https://foursquare.com/svathis/checkin/4d03e9c5347da1cdfc81288f
+GEO:38.24244149341125;21.73886666126052
+LOCATION:Germanou 78, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d01fb379f9ea143679e8ca9
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101210T100400Z
+DTEND:20101210T100400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d01fb379f9ea143679e8ca9
+URL:https://foursquare.com/svathis/checkin/4d01fb379f9ea143679e8ca9
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d013df57212b60cfc59d3bf
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20101209T203700Z
+DTEND:20101209T203700Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4d013df57212b60cfc5
+	9d3bf
+URL:https://foursquare.com/svathis/checkin/4d013df57212b60cfc59d3bf
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4d00937121ea6ea825ac429f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101209T082900Z
+DTEND:20101209T082900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4d00937121ea6ea825ac429f
+URL:https://foursquare.com/svathis/checkin/4d00937121ea6ea825ac429f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cff5446f1605481ce6098ea
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101208T094700Z
+DTEND:20101208T094700Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cff5446f1605481ce6098ea
+URL:https://foursquare.com/svathis/checkin/4cff5446f1605481ce6098ea
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfe970e59c7b60c690fa077
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101207T202000Z
+DTEND:20101207T202000Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cfe970e59c7b60c690fa077
+URL:https://foursquare.com/svathis/checkin/4cfe970e59c7b60c690fa077
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfdf9c62d80a14341f259d8
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101207T090900Z
+DTEND:20101207T090900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cfdf9c62d80a14341f259d8
+URL:https://foursquare.com/svathis/checkin/4cfdf9c62d80a14341f259d8
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfca5f620fe3704a6ef5af8
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101206T085900Z
+DTEND:20101206T085900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cfca5f620fe3704a6ef5af8
+URL:https://foursquare.com/svathis/checkin/4cfca5f620fe3704a6ef5af8
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfb5a8dc51fa1cd6075e62b
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20101205T092500Z
+DTEND:20101205T092500Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cfb5a8dc51fa1cd6075e62b
+URL:https://foursquare.com/svathis/checkin/4cfb5a8dc51fa1cd6075e62b
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfad26cfeec6dcbc89e4236
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101204T234400Z
+DTEND:20101204T234400Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cfad26cfeec6dcbc89e4236
+URL:https://foursquare.com/svathis/checkin/4cfad26cfeec6dcbc89e4236
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfaabadc51fa1cd7b33e22b
+SUMMARY:Ποικίλη Στοά
+DTSTAMP:20190829T121100Z
+DTSTART:20101204T205900Z
+DTEND:20101204T205900Z
+DESCRIPTION:Ποικίλη Στοά\nΡήγα Φεραίου 129 (Παντανάσσης)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4cfaabadc51fa1cd7b33e22b
+URL:https://foursquare.com/svathis/checkin/4cfaabadc51fa1cd7b33e22b
+GEO:38.2461117834284;21.732912089647186
+LOCATION:Ρήγα Φεραίου 129 (Παντανάσσης), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfa3eadd8468cfaa76bec6b
+SUMMARY:CITY
+DTSTAMP:20190829T121100Z
+DTSTART:20101204T131400Z
+DTEND:20101204T131400Z
+DESCRIPTION:CITY\nΠλατεία Γεωργίου Α' 30\, 262 21 Πάτρα\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4cfa3eadd8468cfaa76bec6b
+URL:https://foursquare.com/svathis/checkin/4cfa3eadd8468cfaa76bec6b
+GEO:38.24630922025561;21.734962806219944
+LOCATION:Πλατεία Γεωργίου Α' 30, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf7ef2f64e3721e4c5729c8
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20101202T191000Z
+DTEND:20101202T191000Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4cf7ef2f64e3721e4c5
+	729c8
+URL:https://foursquare.com/svathis/checkin/4cf7ef2f64e3721e4c5729c8
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf758ffdc40a35d42154d54
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101202T082900Z
+DTEND:20101202T082900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cf758ffdc40a35d42154d54
+URL:https://foursquare.com/svathis/checkin/4cf758ffdc40a35d42154d54
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf6c5d30a71224ba9d31f93
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101201T220100Z
+DTEND:20101201T220100Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cf6c5d30a71224ba9d31f93
+URL:https://foursquare.com/svathis/checkin/4cf6c5d30a71224ba9d31f93
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf60f7c0a71224b9dd81b93
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101201T090300Z
+DTEND:20101201T090300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cf60f7c0a71224b9dd81b93
+URL:https://foursquare.com/svathis/checkin/4cf60f7c0a71224b9dd81b93
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf57d69d3a8a1cdb8eccb43
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101130T224000Z
+DTEND:20101130T224000Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cf57d69d3a8a1cdb8eccb43
+URL:https://foursquare.com/svathis/checkin/4cf57d69d3a8a1cdb8eccb43
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf50fc399c6236ab4074967
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101130T145200Z
+DTEND:20101130T145200Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4cf50fc399c6236ab4074967
+URL:https://foursquare.com/svathis/checkin/4cf50fc399c6236ab4074967
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf43c25899c6ea8c9b6ffc1
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101129T234900Z
+DTEND:20101129T234900Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cf43c25899c6ea8c9b6ffc1
+URL:https://foursquare.com/svathis/checkin/4cf43c25899c6ea8c9b6ffc1
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf2c6a96c29236a0d6d6da2
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101128T211600Z
+DTEND:20101128T211600Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cf2c6a96c29236a0d6d6da2
+URL:https://foursquare.com/svathis/checkin/4cf2c6a96c29236a0d6d6da2
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf19e006195721e79c542c1
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101128T001000Z
+DTEND:20101128T001000Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cf19e006195721e79c542c1
+URL:https://foursquare.com/svathis/checkin/4cf19e006195721e79c542c1
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf18a4c7e0da1cdd5449297
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101127T224600Z
+DTEND:20101127T224600Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4cf18a4c7e0da1cdd5449297
+URL:https://foursquare.com/svathis/checkin/4cf18a4c7e0da1cdd5449297
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf027b51d18a143d1744aec
+SUMMARY:Τρελλή Ροδιά
+DTSTAMP:20190829T121100Z
+DTSTART:20101126T213300Z
+DTEND:20101126T213300Z
+DESCRIPTION:Τρελλή Ροδιά\nΓεωργίου Καραϊσκάκη 156\, 262 21 Πάτρα\, Αχαΐα\nh
+	ttps://foursquare.com/svathis/checkin/4cf027b51d18a143d1744aec
+URL:https://foursquare.com/svathis/checkin/4cf027b51d18a143d1744aec
+GEO:38.243766066121516;21.735379874099724
+LOCATION:Γεωργίου Καραϊσκάκη 156, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cee1d00b80da0934f0f2600
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101125T082300Z
+DTEND:20101125T082300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cee1d00b80da0934f0f2600
+URL:https://foursquare.com/svathis/checkin/4cee1d00b80da0934f0f2600
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ced6b1d5de16ea84505b696
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20101124T194400Z
+DTEND:20101124T194400Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4ced6b1d5de16ea8450
+	5b696
+URL:https://foursquare.com/svathis/checkin/4ced6b1d5de16ea84505b696
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ced02064cd4236a8e7da563
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101124T121600Z
+DTEND:20101124T121600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ced02064cd4236a8e7da563
+URL:https://foursquare.com/svathis/checkin/4ced02064cd4236a8e7da563
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cea2f988ef78cfa2e47a59b
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101122T085300Z
+DTEND:20101122T085300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cea2f988ef78cfa2e47a59b
+URL:https://foursquare.com/svathis/checkin/4cea2f988ef78cfa2e47a59b
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce92c78948f224bcac1f45d
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101121T142800Z
+DTEND:20101121T142800Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4ce92c78948f224bcac1f45d
+URL:https://foursquare.com/svathis/checkin/4ce92c78948f224bcac1f45d
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce8ee5ef8653704a20ab4c4
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20101121T100300Z
+DTEND:20101121T100300Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ce8ee5ef8653704a20ab4c4
+URL:https://foursquare.com/svathis/checkin/4ce8ee5ef8653704a20ab4c4
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce7aa7a948f224b6b82eb5d
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20101120T110100Z
+DTEND:20101120T110100Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4ce7aa7a948f224b6b82eb5d
+URL:https://foursquare.com/svathis/checkin/4ce7aa7a948f224b6b82eb5d
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce70472baa6a1cd44e7246c
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101119T231200Z
+DTEND:20101119T231200Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4ce70472baa6a1cd44e7246c
+URL:https://foursquare.com/svathis/checkin/4ce70472baa6a1cd44e7246c
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce6dce9d99f721e2585a673
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20101119T202400Z
+DTEND:20101119T202400Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4ce6dce9d99f721e258
+	5a673
+URL:https://foursquare.com/svathis/checkin/4ce6dce9d99f721e2585a673
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce5a7559f776ea89d434d22
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101118T222300Z
+DTEND:20101118T222300Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4ce5a7559f776ea89d434d22
+URL:https://foursquare.com/svathis/checkin/4ce5a7559f776ea89d434d22
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce4f46f42f0b1f7c81d90ce
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101118T093900Z
+DTEND:20101118T093900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ce4f46f42f0b1f7c81d90ce
+URL:https://foursquare.com/svathis/checkin/4ce4f46f42f0b1f7c81d90ce
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce3937b77ef224b3fd9437b
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101117T083400Z
+DTEND:20101117T083400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ce3937b77ef224b3fd9437b
+URL:https://foursquare.com/svathis/checkin/4ce3937b77ef224b3fd9437b
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce2f0b647d5a143bc1a071d
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101116T205900Z
+DTEND:20101116T205900Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4ce2f0b647d5a143bc1a071d
+URL:https://foursquare.com/svathis/checkin/4ce2f0b647d5a143bc1a071d
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce2649470bba1cde08c76c4
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101116T110100Z
+DTEND:20101116T110100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ce2649470bba1cde08c76c4
+URL:https://foursquare.com/svathis/checkin/4ce2649470bba1cde08c76c4
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce01c46f8cdb1f78b5c9512
+SUMMARY:Throubi
+DTSTAMP:20190829T121100Z
+DTSTART:20101114T172800Z
+DTEND:20101114T172800Z
+DESCRIPTION:Throubi\nΠλατεία Αγίας Ειρήνης 2 (Βασιλικής)\, 105 60 Αθήνα\, Α
+	ττική\nhttps://foursquare.com/svathis/checkin/4ce01c46f8cdb1f78b5c9512
+URL:https://foursquare.com/svathis/checkin/4ce01c46f8cdb1f78b5c9512
+GEO:37.97729740816092;23.7282458141352
+LOCATION:Πλατεία Αγίας Ειρήνης 2 (Βασιλικής), 105 60 Αθήνα, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdfb917aba88cfa4a154bd7
+SUMMARY:1ο Γυμνάσιο Λυκόβρυσης
+DTSTAMP:20190829T121100Z
+DTSTART:20101114T102500Z
+DTEND:20101114T102500Z
+DESCRIPTION:1ο Γυμνάσιο Λυκόβρυσης\nΑγίου Γεωργίου 20-22\, 151 21 Λυκόβρυση
+	\, Αττική\nhttps://foursquare.com/svathis/checkin/4cdfb917aba88cfa4a154bd7
+URL:https://foursquare.com/svathis/checkin/4cdfb917aba88cfa4a154bd7
+GEO:38.06587812064254;23.781062351016306
+LOCATION:Αγίου Γεωργίου 20-22, 151 21 Λυκόβρυση, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cde7c5cf8cdb1f7935b8b12
+SUMMARY:wagamama
+DTSTAMP:20190829T121100Z
+DTSTART:20101113T115400Z
+DTEND:20101113T115400Z
+DESCRIPTION:wagamama\nΛεωφ. Κηφισίας 37Α\, 151 23 Μαρούσι\, Αττική\nhttps:/
+	/foursquare.com/svathis/checkin/4cde7c5cf8cdb1f7935b8b12
+URL:https://foursquare.com/svathis/checkin/4cde7c5cf8cdb1f7935b8b12
+GEO:38.03428062117252;23.79347227844876
+LOCATION:Λεωφ. Κηφισίας 37Α, 151 23 Μαρούσι, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cde7a6741ed224bf61dd93c
+SUMMARY:wagamama
+DTSTAMP:20190829T121100Z
+DTSTART:20101113T114500Z
+DTEND:20101113T114500Z
+DESCRIPTION:wagamama\nΛεωφ. Κηφισίας 37Α\, 151 23 Μαρούσι\, Αττική\nhttps:/
+	/foursquare.com/svathis/checkin/4cde7a6741ed224bf61dd93c
+URL:https://foursquare.com/svathis/checkin/4cde7a6741ed224bf61dd93c
+GEO:38.03428062117252;23.79347227844876
+LOCATION:Λεωφ. Κηφισίας 37Α, 151 23 Μαρούσι, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdd1860cea2224bd20d8f4c
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101112T103500Z
+DTEND:20101112T103500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cdd1860cea2224bd20d8f4c
+URL:https://foursquare.com/svathis/checkin/4cdd1860cea2224bd20d8f4c
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdc2010d4ecb1f71a967d48
+SUMMARY:Neon (Νέον)
+DTSTAMP:20190829T121100Z
+DTSTART:20101111T165500Z
+DTEND:20101111T165500Z
+DESCRIPTION:Neon (Νέον)\nΤριών Ναυάρχων 42\, 262 22 Πάτρα\, Αχαΐα\nhttps://
+	foursquare.com/svathis/checkin/4cdc2010d4ecb1f71a967d48
+URL:https://foursquare.com/svathis/checkin/4cdc2010d4ecb1f71a967d48
+GEO:38.24284922240693;21.72947396148546
+LOCATION:Τριών Ναυάρχων 42, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdb17b0cea2224be977834c
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101110T220700Z
+DTEND:20101110T220700Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cdb17b0cea2224be977834c
+URL:https://foursquare.com/svathis/checkin/4cdb17b0cea2224be977834c
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdb03bba1bba35dcb2692e5
+SUMMARY:Τρελλή Ροδιά
+DTSTAMP:20190829T121100Z
+DTSTART:20101110T204200Z
+DTEND:20101110T204200Z
+DESCRIPTION:Τρελλή Ροδιά\nΓεωργίου Καραϊσκάκη 156\, 262 21 Πάτρα\, Αχαΐα\nh
+	ttps://foursquare.com/svathis/checkin/4cdb03bba1bba35dcb2692e5
+URL:https://foursquare.com/svathis/checkin/4cdb03bba1bba35dcb2692e5
+GEO:38.243766066121516;21.735379874099724
+LOCATION:Γεωργίου Καραϊσκάκη 156, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cda7175958f236af4d0a603
+SUMMARY:Australian Embassy (Πρεσβεία της Αυστραλίας)
+DTSTAMP:20190829T121100Z
+DTSTART:20101110T101800Z
+DTEND:20101110T101800Z
+DESCRIPTION:Australian Embassy (Πρεσβεία της Αυστραλίας)\nΛεωφόρος Κηφισιάς
+	 (Λεωφόρος Αλεξάνδρας)\, 115 23 Αθήνα\, Αττική\nhttps://foursquare.com/sva
+	this/checkin/4cda7175958f236af4d0a603
+URL:https://foursquare.com/svathis/checkin/4cda7175958f236af4d0a603
+GEO:37.98682789766166;23.76145362854004
+LOCATION:Λεωφόρος Κηφισιάς (Λεωφόρος Αλεξάνδρας), 115 23 Αθήνα, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cda6fcf930af04d08c18497
+SUMMARY:Flocafé
+DTSTAMP:20190829T121100Z
+DTSTART:20101110T101100Z
+DTEND:20101110T101100Z
+DESCRIPTION:Flocafé\nΛ. Αλεξάνδρας 221\, Αμπελόκηποι\, Αττική\nhttps://four
+	square.com/svathis/checkin/4cda6fcf930af04d08c18497
+URL:https://foursquare.com/svathis/checkin/4cda6fcf930af04d08c18497
+GEO:37.98694379122606;23.760363015611237
+LOCATION:Λ. Αλεξάνδρας 221, Αμπελόκηποι, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd67d57aeb1224b7fbe28ff
+SUMMARY:1ο Γυμνάσιο Λυκόβρυσης
+DTSTAMP:20190829T121100Z
+DTSTART:20101107T102000Z
+DTEND:20101107T102000Z
+DESCRIPTION:1ο Γυμνάσιο Λυκόβρυσης\nΑγίου Γεωργίου 20-22\, 151 21 Λυκόβρυση
+	\, Αττική\nhttps://foursquare.com/svathis/checkin/4cd67d57aeb1224b7fbe28ff
+URL:https://foursquare.com/svathis/checkin/4cd67d57aeb1224b7fbe28ff
+GEO:38.06587812064254;23.781062351016306
+LOCATION:Αγίου Γεωργίου 20-22, 151 21 Λυκόβρυση, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd5d8be76ab721e74bf6f6a
+SUMMARY:The Seven Jokers
+DTSTAMP:20190829T121100Z
+DTSTART:20101106T223700Z
+DTEND:20101106T223700Z
+DESCRIPTION:The Seven Jokers\nΒουλής 7\, 105 62 Αθήνα\, Αττική\nhttps://fou
+	rsquare.com/svathis/checkin/4cd5d8be76ab721e74bf6f6a
+URL:https://foursquare.com/svathis/checkin/4cd5d8be76ab721e74bf6f6a
+GEO:37.97693003073475;23.7328189747609
+LOCATION:Βουλής 7, 105 62 Αθήνα, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd5af4fb2a4370476db7f44
+SUMMARY:Kotzia Square (Πλατεία Κοτζιά)
+DTSTAMP:20190829T121100Z
+DTSTART:20101106T194100Z
+DTEND:20101106T194100Z
+DESCRIPTION:Kotzia Square (Πλατεία Κοτζιά)\nΑθηνάς (Ευπολίδος)\, Αθήνα\, Ατ
+	τική\nhttps://foursquare.com/svathis/checkin/4cd5af4fb2a4370476db7f44
+URL:https://foursquare.com/svathis/checkin/4cd5af4fb2a4370476db7f44
+GEO:37.981962524404416;23.727578841509448
+LOCATION:Αθηνάς (Ευπολίδος), Αθήνα, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd58bfcaeb1224b4d2023ff
+SUMMARY:wagamama
+DTSTAMP:20190829T121100Z
+DTSTART:20101106T171000Z
+DTEND:20101106T171000Z
+DESCRIPTION:wagamama\nΛεωφ. Κηφισίας 37Α\, 151 23 Μαρούσι\, Αττική\nhttps:/
+	/foursquare.com/svathis/checkin/4cd58bfcaeb1224b4d2023ff
+URL:https://foursquare.com/svathis/checkin/4cd58bfcaeb1224b4d2023ff
+GEO:38.03428062117252;23.79347227844876
+LOCATION:Λεωφ. Κηφισίας 37Α, 151 23 Μαρούσι, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd28746fa66236a699deb2e
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101104T101300Z
+DTEND:20101104T101300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cd28746fa66236a699deb2e
+URL:https://foursquare.com/svathis/checkin/4cd28746fa66236a699deb2e
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd11fb948b837047bd4f6de
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101103T083900Z
+DTEND:20101103T083900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cd11fb948b837047bd4f6de
+URL:https://foursquare.com/svathis/checkin/4cd11fb948b837047bd4f6de
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ccfd2daf6378cfa41e7b0d6
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101102T085900Z
+DTEND:20101102T085900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ccfd2daf6378cfa41e7b0d6
+URL:https://foursquare.com/svathis/checkin/4ccfd2daf6378cfa41e7b0d6
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ccca28472106dcb69809d99
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101030T225600Z
+DTEND:20101030T225600Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4ccca28472106dcb69809d99
+URL:https://foursquare.com/svathis/checkin/4ccca28472106dcb69809d99
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cca9af5c4d06dcb24ba6303
+SUMMARY:Crab Cafe
+DTSTAMP:20190829T121100Z
+DTSTART:20101029T095900Z
+DTEND:20101029T095900Z
+DESCRIPTION:Crab Cafe\nΠλατεια Γεωργίου 2\, Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4cca9af5c4d06dcb24ba6303
+URL:https://foursquare.com/svathis/checkin/4cca9af5c4d06dcb24ba6303
+GEO:38.24696489335781;21.734755906236984
+LOCATION:Πλατεια Γεωργίου 2, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc9f24d1ce5236a8b1bbc65
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101028T215900Z
+DTEND:20101028T215900Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cc9f24d1ce5236a8b1bbc65
+URL:https://foursquare.com/svathis/checkin/4cc9f24d1ce5236a8b1bbc65
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc9e5ef4650a35d4a45911e
+SUMMARY:Σκουφάκι
+DTSTAMP:20190829T121100Z
+DTSTART:20101028T210600Z
+DTEND:20101028T210600Z
+DESCRIPTION:Σκουφάκι\nΠατρέως 54\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4cc9e5ef4650a35d4a45911e
+URL:https://foursquare.com/svathis/checkin/4cc9e5ef4650a35d4a45911e
+GEO:38.245384491116646;21.734419912045038
+LOCATION:Πατρέως 54, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc9c0f9d147a093ae0ae9ae
+SUMMARY:Θέατρο Λιθογραφείον
+DTSTAMP:20190829T121100Z
+DTSTART:20101028T182900Z
+DTEND:20101028T182900Z
+DESCRIPTION:Θέατρο Λιθογραφείον\nΜαίζωνος 172Β\, 262 22 Πάτρα\, Αχαΐα\nhttp
+	s://foursquare.com/svathis/checkin/4cc9c0f9d147a093ae0ae9ae
+URL:https://foursquare.com/svathis/checkin/4cc9c0f9d147a093ae0ae9ae
+GEO:38.242458635763526;21.729557380041346
+LOCATION:Μαίζωνος 172Β, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc99535d147a093f9f3e7ae
+SUMMARY:Amelie
+DTSTAMP:20190829T121100Z
+DTSTART:20101028T152200Z
+DTEND:20101028T152200Z
+DESCRIPTION:Amelie\nΠαντανάσσης 47 (Κορίνθου)\, 262 21 Πάτρα\, Αχαΐα\nhttps
+	://foursquare.com/svathis/checkin/4cc99535d147a093f9f3e7ae
+URL:https://foursquare.com/svathis/checkin/4cc99535d147a093f9f3e7ae
+GEO:38.245128898438885;21.73403710825103
+LOCATION:Παντανάσσης 47 (Κορίνθου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc8a8984650a35d72dc891e
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101027T223200Z
+DTEND:20101027T223200Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cc8a8984650a35d72dc891e
+URL:https://foursquare.com/svathis/checkin/4cc8a8984650a35d72dc891e
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc884747151721e14776137
+SUMMARY:Τρελλή Ροδιά
+DTSTAMP:20190829T121100Z
+DTSTART:20101027T195800Z
+DTEND:20101027T195800Z
+DESCRIPTION:Τρελλή Ροδιά\nΓεωργίου Καραϊσκάκη 156\, 262 21 Πάτρα\, Αχαΐα\nh
+	ttps://foursquare.com/svathis/checkin/4cc884747151721e14776137
+URL:https://foursquare.com/svathis/checkin/4cc884747151721e14776137
+GEO:38.243766066121516;21.735379874099724
+LOCATION:Γεωργίου Καραϊσκάκη 156, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc7d2d68c5b236a59b3fb6d
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101027T072000Z
+DTEND:20101027T072000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cc7d2d68c5b236a59b3fb6d
+URL:https://foursquare.com/svathis/checkin/4cc7d2d68c5b236a59b3fb6d
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc549e680624688c13e3b2f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101025T091200Z
+DTEND:20101025T091200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cc549e680624688c13e3b2f
+URL:https://foursquare.com/svathis/checkin/4cc549e680624688c13e3b2f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc17d3722ce468807a83d47
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101022T120100Z
+DTEND:20101022T120100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cc17d3722ce468807a83d47
+URL:https://foursquare.com/svathis/checkin/4cc17d3722ce468807a83d47
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc001d000d837040294475c
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101021T090300Z
+DTEND:20101021T090300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cc001d000d837040294475c
+URL:https://foursquare.com/svathis/checkin/4cc001d000d837040294475c
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cbe9fe197bc721e5bad8067
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101020T075300Z
+DTEND:20101020T075300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cbe9fe197bc721e5bad8067
+URL:https://foursquare.com/svathis/checkin/4cbe9fe197bc721e5bad8067
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cbd46ce7148f04d8e38ecab
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101019T072000Z
+DTEND:20101019T072000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cbd46ce7148f04d8e38ecab
+URL:https://foursquare.com/svathis/checkin/4cbd46ce7148f04d8e38ecab
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cbbf03a7148f04d1911e5ab
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101018T065900Z
+DTEND:20101018T065900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cbbf03a7148f04d1911e5ab
+URL:https://foursquare.com/svathis/checkin/4cbbf03a7148f04d1911e5ab
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cbb60f5dd41a35d77d9eda0
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101017T204700Z
+DTEND:20101017T204700Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cbb60f5dd41a35d77d9eda0
+URL:https://foursquare.com/svathis/checkin/4cbb60f5dd41a35d77d9eda0
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb9c023bac937049380e67c
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101016T150900Z
+DTEND:20101016T150900Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4cb9c023bac937049380e67c
+URL:https://foursquare.com/svathis/checkin/4cb9c023bac937049380e67c
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb8cf074352a1cd047f88f5
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101015T220000Z
+DTEND:20101015T220000Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cb8cf074352a1cd047f88f5
+URL:https://foursquare.com/svathis/checkin/4cb8cf074352a1cd047f88f5
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb883654352a1cd404186f5
+SUMMARY:Amelie
+DTSTAMP:20190829T121100Z
+DTSTART:20101015T163700Z
+DTEND:20101015T163700Z
+DESCRIPTION:Amelie\nΠαντανάσσης 47 (Κορίνθου)\, 262 21 Πάτρα\, Αχαΐα\nhttps
+	://foursquare.com/svathis/checkin/4cb883654352a1cd404186f5
+URL:https://foursquare.com/svathis/checkin/4cb883654352a1cd404186f5
+GEO:38.245128898438885;21.73403710825103
+LOCATION:Παντανάσσης 47 (Κορίνθου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb807a8035d236a2fefc94e
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101015T075000Z
+DTEND:20101015T075000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cb807a8035d236a2fefc94e
+URL:https://foursquare.com/svathis/checkin/4cb807a8035d236a2fefc94e
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb758fd3ac93704bffcda0a
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20101014T192400Z
+DTEND:20101014T192400Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4cb758fd3ac93704bffcda0a
+URL:https://foursquare.com/svathis/checkin/4cb758fd3ac93704bffcda0a
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb6b521f6616dcb221fe108
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101014T074500Z
+DTEND:20101014T074500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cb6b521f6616dcb221fe108
+URL:https://foursquare.com/svathis/checkin/4cb6b521f6616dcb221fe108
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb60a348db0a143bff86616
+SUMMARY:Τρελλή Ροδιά
+DTSTAMP:20190829T121100Z
+DTSTART:20101013T193600Z
+DTEND:20101013T193600Z
+DESCRIPTION:Τρελλή Ροδιά\nΓεωργίου Καραϊσκάκη 156\, 262 21 Πάτρα\, Αχαΐα\nh
+	ttps://foursquare.com/svathis/checkin/4cb60a348db0a143bff86616
+URL:https://foursquare.com/svathis/checkin/4cb60a348db0a143bff86616
+GEO:38.243766066121516;21.735379874099724
+LOCATION:Γεωργίου Καραϊσκάκη 156, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb56fad56fca1cd5ce34e18
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101013T083700Z
+DTEND:20101013T083700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cb56fad56fca1cd5ce34e18
+URL:https://foursquare.com/svathis/checkin/4cb56fad56fca1cd5ce34e18
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb41aeeaef16dcb3f78cc54
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101012T082300Z
+DTEND:20101012T082300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cb41aeeaef16dcb3f78cc54
+URL:https://foursquare.com/svathis/checkin/4cb41aeeaef16dcb3f78cc54
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb36856c939721e2e1db79e
+SUMMARY:Ster Cinemas
+DTSTAMP:20190829T121100Z
+DTSTART:20101011T194100Z
+DTEND:20101011T194100Z
+DESCRIPTION:Ster Cinemas\nΑκτή Δυμαίων\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cb36856c939721e2e1db79e
+URL:https://foursquare.com/svathis/checkin/4cb36856c939721e2e1db79e
+GEO:38.2374227052872;21.726095469071254
+LOCATION:Ακτή Δυμαίων, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb366c81168a093fffe4123
+SUMMARY:Ster Cinemas
+DTSTAMP:20190829T121100Z
+DTSTART:20101011T193400Z
+DTEND:20101011T193400Z
+DESCRIPTION:Ster Cinemas\nΑκτή Δυμαίων\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cb366c81168a093fffe4123
+URL:https://foursquare.com/svathis/checkin/4cb366c81168a093fffe4123
+GEO:38.2374227052872;21.726095469071254
+LOCATION:Ακτή Δυμαίων, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb2b77ccbab236a28beb273
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101011T070600Z
+DTEND:20101011T070600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cb2b77ccbab236a28beb273
+URL:https://foursquare.com/svathis/checkin/4cb2b77ccbab236a28beb273
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb0e6f075ebb60cbdcfc8ad
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101009T220400Z
+DTEND:20101009T220400Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4cb0e6f075ebb60cbdcfc8ad
+URL:https://foursquare.com/svathis/checkin/4cb0e6f075ebb60cbdcfc8ad
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4caebfb575ebb60cb3efb6ad
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101008T065200Z
+DTEND:20101008T065200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4caebfb575ebb60cb3efb6ad
+URL:https://foursquare.com/svathis/checkin/4caebfb575ebb60cb3efb6ad
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cadcd07d1f8b60c91bc71c6
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101007T133700Z
+DTEND:20101007T133700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cadcd07d1f8b60c91bc71c6
+URL:https://foursquare.com/svathis/checkin/4cadcd07d1f8b60c91bc71c6
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4cac246b36fa6dcbda23dc78
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101006T072500Z
+DTEND:20101006T072500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4cac246b36fa6dcbda23dc78
+URL:https://foursquare.com/svathis/checkin/4cac246b36fa6dcbda23dc78
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4caad5ac14c33704c85de53b
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101005T073700Z
+DTEND:20101005T073700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4caad5ac14c33704c85de53b
+URL:https://foursquare.com/svathis/checkin/4caad5ac14c33704c85de53b
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca97bcaa6e08cfa5bc19994
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101004T070100Z
+DTEND:20101004T070100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ca97bcaa6e08cfa5bc19994
+URL:https://foursquare.com/svathis/checkin/4ca97bcaa6e08cfa5bc19994
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca8b0abd971b1f7f5f316e1
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101003T163400Z
+DTEND:20101003T163400Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4ca8b0abd971b1f7f5f316e1
+URL:https://foursquare.com/svathis/checkin/4ca8b0abd971b1f7f5f316e1
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca89335b0b8236a429bb4e6
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101003T142900Z
+DTEND:20101003T142900Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4ca89335b0b8236a429bb4e6
+URL:https://foursquare.com/svathis/checkin/4ca89335b0b8236a429bb4e6
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca8389db0b8236a7f99b1e6
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20101003T080200Z
+DTEND:20101003T080200Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ca8389db0b8236a7f99b1e6
+URL:https://foursquare.com/svathis/checkin/4ca8389db0b8236a7f99b1e6
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca796a144a8224b59ed0e40
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20101002T203100Z
+DTEND:20101002T203100Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4ca796a144a8224b59ed0e40
+URL:https://foursquare.com/svathis/checkin/4ca796a144a8224b59ed0e40
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca6fdc014c33704af28c53b
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20101002T093900Z
+DTEND:20101002T093900Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4ca6fdc014c33704af28c53b
+URL:https://foursquare.com/svathis/checkin/4ca6fdc014c33704af28c53b
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca6442376d3a09335d1ff6a
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20101001T202700Z
+DTEND:20101001T202700Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4ca6442376d3a09335d1ff6a
+URL:https://foursquare.com/svathis/checkin/4ca6442376d3a09335d1ff6a
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca635fb76d3a0932042ff6a
+SUMMARY:Distinto Mall
+DTSTAMP:20190829T121100Z
+DTSTART:20101001T192600Z
+DTEND:20101001T192600Z
+DESCRIPTION:Distinto Mall\nΠλατεία Βασιλέως Γεωργίου Α' 3 (Εμπορικό Κέντρο 
+	Κόλλα)\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4ca6
+	35fb76d3a0932042ff6a
+URL:https://foursquare.com/svathis/checkin/4ca635fb76d3a0932042ff6a
+GEO:38.247092693044216;21.7347997415847
+LOCATION:Πλατεία Βασιλέως Γεωργίου Α' 3 (Εμπορικό Κέντρο Κόλλα), 262 21 Πάτ
+	ρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca6087944a8224b8536ff3f
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20101001T161200Z
+DTEND:20101001T161200Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4ca6087944a8224b8536ff3f
+URL:https://foursquare.com/svathis/checkin/4ca6087944a8224b8536ff3f
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca5839544a8224b53b9fa3f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20101001T064500Z
+DTEND:20101001T064500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ca5839544a8224b53b9fa3f
+URL:https://foursquare.com/svathis/checkin/4ca5839544a8224b53b9fa3f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca43704d5a2a14302135090
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100930T070600Z
+DTEND:20100930T070600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ca43704d5a2a14302135090
+URL:https://foursquare.com/svathis/checkin/4ca43704d5a2a14302135090
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca35477d5a2a143554e4890
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100929T150000Z
+DTEND:20100929T150000Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4ca35477d5a2a143554e4890
+URL:https://foursquare.com/svathis/checkin/4ca35477d5a2a143554e4890
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca25a7e554b236a26651d48
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100928T211300Z
+DTEND:20100928T211300Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4ca25a7e554b236a26651d48
+URL:https://foursquare.com/svathis/checkin/4ca25a7e554b236a26651d48
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca248d0554b236adddc1c48
+SUMMARY:Distinto Mall
+DTSTAMP:20190829T121100Z
+DTSTART:20100928T195800Z
+DTEND:20100928T195800Z
+DESCRIPTION:Distinto Mall\nΠλατεία Βασιλέως Γεωργίου Α' 3 (Εμπορικό Κέντρο 
+	Κόλλα)\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4ca2
+	48d0554b236adddc1c48
+URL:https://foursquare.com/svathis/checkin/4ca248d0554b236adddc1c48
+GEO:38.247092693044216;21.7347997415847
+LOCATION:Πλατεία Βασιλέως Γεωργίου Α' 3 (Εμπορικό Κέντρο Κόλλα), 262 21 Πάτ
+	ρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca20b4f54c8a1cd8834ad4b
+SUMMARY:Το ποδήλατο
+DTSTAMP:20190829T121100Z
+DTSTART:20100928T153500Z
+DTEND:20100928T153500Z
+DESCRIPTION:Το ποδήλατο\nΠαπαφλέσα (Ευμήλου)\, Πάτρα\, Αχαΐα\nhttps://fours
+	quare.com/svathis/checkin/4ca20b4f54c8a1cd8834ad4b
+URL:https://foursquare.com/svathis/checkin/4ca20b4f54c8a1cd8834ad4b
+GEO:38.24094409265185;21.727309226989746
+LOCATION:Παπαφλέσα (Ευμήλου), Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca20b1d19e4236abb156f89
+SUMMARY:Το ποδήλατο
+DTSTAMP:20190829T121100Z
+DTSTART:20100928T153400Z
+DTEND:20100928T153400Z
+DESCRIPTION:Το ποδήλατο\nΠαπαφλέσα (Ευμήλου)\, Πάτρα\, Αχαΐα\nhttps://fours
+	quare.com/svathis/checkin/4ca20b1d19e4236abb156f89
+URL:https://foursquare.com/svathis/checkin/4ca20b1d19e4236abb156f89
+GEO:38.24094409265185;21.727309226989746
+LOCATION:Παπαφλέσα (Ευμήλου), Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca1960003133704e4b384d5
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100928T071500Z
+DTEND:20100928T071500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ca1960003133704e4b384d5
+URL:https://foursquare.com/svathis/checkin/4ca1960003133704e4b384d5
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca0501d8afca09327a31116
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100927T080400Z
+DTEND:20100927T080400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4ca0501d8afca09327a31116
+URL:https://foursquare.com/svathis/checkin/4ca0501d8afca09327a31116
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9f63d22fb1a1437c2bf340
+SUMMARY:Δωδώνη
+DTSTAMP:20190829T121100Z
+DTSTART:20100926T151600Z
+DTEND:20100926T151600Z
+DESCRIPTION:Δωδώνη\nΗρώων Πολυτεχνείου 58\, 264 41 Πάτρα\, Αχαΐα\nhttps://f
+	oursquare.com/svathis/checkin/4c9f63d22fb1a1437c2bf340
+URL:https://foursquare.com/svathis/checkin/4c9f63d22fb1a1437c2bf340
+GEO:38.26063220173212;21.738663795185282
+LOCATION:Ηρώων Πολυτεχνείου 58, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9e6c932fb1a143af7aea40
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100925T214100Z
+DTEND:20100925T214100Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4c9e6c932fb1a143af7aea40
+URL:https://foursquare.com/svathis/checkin/4c9e6c932fb1a143af7aea40
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9ddaca8afca093d2acfa15
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20100925T111900Z
+DTEND:20100925T111900Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c9ddaca8afca093d2acfa15
+URL:https://foursquare.com/svathis/checkin/4c9ddaca8afca093d2acfa15
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9d0d0746978cfa9ed3937f
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100924T204100Z
+DTEND:20100924T204100Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4c9d0d0746978cfa9ed3937f
+URL:https://foursquare.com/svathis/checkin/4c9d0d0746978cfa9ed3937f
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9c8a0b8afca09338d0ed15
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100924T112200Z
+DTEND:20100924T112200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c9c8a0b8afca09338d0ed15
+URL:https://foursquare.com/svathis/checkin/4c9c8a0b8afca09338d0ed15
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9ba9d69c663704276463fd
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20100923T192600Z
+DTEND:20100923T192600Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4c9ba9d69c663704276463fd
+URL:https://foursquare.com/svathis/checkin/4c9ba9d69c663704276463fd
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9b0615292a6dcb9907d476
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100923T074700Z
+DTEND:20100923T074700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c9b0615292a6dcb9907d476
+URL:https://foursquare.com/svathis/checkin/4c9b0615292a6dcb9907d476
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9a602578fc236a43fb3497
+SUMMARY:Hall
+DTSTAMP:20190829T121100Z
+DTSTART:20100922T195900Z
+DTEND:20100922T195900Z
+DESCRIPTION:Hall\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4c9a602578fc236a43fb3497
+URL:https://foursquare.com/svathis/checkin/4c9a602578fc236a43fb3497
+GEO:38.26177373579616;21.739148497581482
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c99b613a004a1cdfc05426e
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100922T075300Z
+DTEND:20100922T075300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c99b613a004a1cdfc05426e
+URL:https://foursquare.com/svathis/checkin/4c99b613a004a1cdfc05426e
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c985843671db60c46bcb8f6
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100921T070100Z
+DTEND:20100921T070100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c985843671db60c46bcb8f6
+URL:https://foursquare.com/svathis/checkin/4c985843671db60c46bcb8f6
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9781eb38dd8cfae937e462
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100920T154600Z
+DTEND:20100920T154600Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4c9781eb38dd8cfae937e462
+URL:https://foursquare.com/svathis/checkin/4c9781eb38dd8cfae937e462
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c971c4794a0236a795fa412
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100920T083300Z
+DTEND:20100920T083300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c971c4794a0236a795fa412
+URL:https://foursquare.com/svathis/checkin/4c971c4794a0236a795fa412
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c93dc7ff244b1f7bba51c1d
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100917T212400Z
+DTEND:20100917T212400Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4c93dc7ff244b1f7bba51c1d
+URL:https://foursquare.com/svathis/checkin/4c93dc7ff244b1f7bba51c1d
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c93250e418ea1cdfaffaa85
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100917T082100Z
+DTEND:20100917T082100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c93250e418ea1cdfaffaa85
+URL:https://foursquare.com/svathis/checkin/4c93250e418ea1cdfaffaa85
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c927c7c1221b1f7e2fc11e2
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20100916T202200Z
+DTEND:20100916T202200Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4c927c7c1221b1f7e2fc11e2
+URL:https://foursquare.com/svathis/checkin/4c927c7c1221b1f7e2fc11e2
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c91be1e57e5b60c4350631c
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100916T065000Z
+DTEND:20100916T065000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c91be1e57e5b60c4350631c
+URL:https://foursquare.com/svathis/checkin/4c91be1e57e5b60c4350631c
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9080276fbf224b331c548f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100915T081300Z
+DTEND:20100915T081300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c9080276fbf224b331c548f
+URL:https://foursquare.com/svathis/checkin/4c9080276fbf224b331c548f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8f2010ad70a143eb458f0f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100914T071100Z
+DTEND:20100914T071100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c8f2010ad70a143eb458f0f
+URL:https://foursquare.com/svathis/checkin/4c8f2010ad70a143eb458f0f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8dcca3b3bcb60cd13e5427
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100913T070200Z
+DTEND:20100913T070200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c8dcca3b3bcb60cd13e5427
+URL:https://foursquare.com/svathis/checkin/4c8dcca3b3bcb60cd13e5427
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8c88135e38b1f7bb8a32f9
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20100912T075800Z
+DTEND:20100912T075800Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c8c88135e38b1f7bb8a32f9
+URL:https://foursquare.com/svathis/checkin/4c8c88135e38b1f7bb8a32f9
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8c0e5855fba093e91b5cab
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20100911T231800Z
+DTEND:20100911T231800Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c8c0e5855fba093e91b5cab
+URL:https://foursquare.com/svathis/checkin/4c8c0e5855fba093e91b5cab
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8bf476c37a6dcbacd0f27a
+SUMMARY:Terraza (Ταράτσα)
+DTSTAMP:20190829T121100Z
+DTSTART:20100911T212800Z
+DTEND:20100911T212800Z
+DESCRIPTION:Terraza (Ταράτσα)\nΡήγα Φεραίου 96 (Πάροδος Δρακοπούλου)\, 262 
+	21 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4c8bf476c37a6dcba
+	cd0f27a
+URL:https://foursquare.com/svathis/checkin/4c8bf476c37a6dcbacd0f27a
+GEO:38.24767241046452;21.734400987625122
+LOCATION:Ρήγα Φεραίου 96 (Πάροδος Δρακοπούλου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8a9018770fb60c0fbcd3c3
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100910T200700Z
+DTEND:20100910T200700Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c8a9018770fb60c0fbcd3c3
+URL:https://foursquare.com/svathis/checkin/4c8a9018770fb60c0fbcd3c3
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c89e33e6418a143651bdbce
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100910T075000Z
+DTEND:20100910T075000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c89e33e6418a143651bdbce
+URL:https://foursquare.com/svathis/checkin/4c89e33e6418a143651bdbce
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c889844ed0aa143e7a2aaf3
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100909T081800Z
+DTEND:20100909T081800Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c889844ed0aa143e7a2aaf3
+URL:https://foursquare.com/svathis/checkin/4c889844ed0aa143e7a2aaf3
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c874dc6d8086dcba0ffa052
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100908T084800Z
+DTEND:20100908T084800Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c874dc6d8086dcba0ffa052
+URL:https://foursquare.com/svathis/checkin/4c874dc6d8086dcba0ffa052
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c86a14551ada1cd9fe64110
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100907T203200Z
+DTEND:20100907T203200Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c86a14551ada1cd9fe64110
+URL:https://foursquare.com/svathis/checkin/4c86a14551ada1cd9fe64110
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c85ec7cd34ca1436f734b80
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100907T074000Z
+DTEND:20100907T074000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c85ec7cd34ca1436f734b80
+URL:https://foursquare.com/svathis/checkin/4c85ec7cd34ca1436f734b80
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c849bc12f1c236ac9b94d43
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100906T074400Z
+DTEND:20100906T074400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c849bc12f1c236ac9b94d43
+URL:https://foursquare.com/svathis/checkin/4c849bc12f1c236ac9b94d43
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c835fd4dc018cfab739d86c
+SUMMARY:Café Pero
+DTSTAMP:20190829T121100Z
+DTSTART:20100905T091600Z
+DTEND:20100905T091600Z
+DESCRIPTION:Café Pero\nΚεντρική Πλατεία Ληξουρίου\, 282 00 Ληξούρι\, Κεφαλο
+	νιά\nhttps://foursquare.com/svathis/checkin/4c835fd4dc018cfab739d86c
+URL:https://foursquare.com/svathis/checkin/4c835fd4dc018cfab739d86c
+GEO:38.20051;20.438756
+LOCATION:Κεντρική Πλατεία Ληξουρίου, 282 00 Ληξούρι, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8226d12f1c236a386e3643
+SUMMARY:Café Pero
+DTSTAMP:20190829T121100Z
+DTSTART:20100904T110000Z
+DTEND:20100904T110000Z
+DESCRIPTION:Café Pero\nΚεντρική Πλατεία Ληξουρίου\, 282 00 Ληξούρι\, Κεφαλο
+	νιά\nhttps://foursquare.com/svathis/checkin/4c8226d12f1c236a386e3643
+URL:https://foursquare.com/svathis/checkin/4c8226d12f1c236a386e3643
+GEO:38.20051;20.438756
+LOCATION:Κεντρική Πλατεία Ληξουρίου, 282 00 Ληξούρι, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c820942dc018cfa8182cb6c
+SUMMARY:Café Pero
+DTSTAMP:20190829T121100Z
+DTSTART:20100904T085400Z
+DTEND:20100904T085400Z
+DESCRIPTION:Café Pero\nΚεντρική Πλατεία Ληξουρίου\, 282 00 Ληξούρι\, Κεφαλο
+	νιά\nhttps://foursquare.com/svathis/checkin/4c820942dc018cfa8182cb6c
+URL:https://foursquare.com/svathis/checkin/4c820942dc018cfa8182cb6c
+GEO:38.20051;20.438756
+LOCATION:Κεντρική Πλατεία Ληξουρίου, 282 00 Ληξούρι, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c81681bd34ca14308342280
+SUMMARY:Inside
+DTSTAMP:20190829T121100Z
+DTSTART:20100903T212600Z
+DTEND:20100903T212600Z
+DESCRIPTION:Inside\nΓρ\, Λαμπράκη\, Ληξούρι\, Κεφαλονιά\nhttps://foursquare
+	.com/svathis/checkin/4c81681bd34ca14308342280
+URL:https://foursquare.com/svathis/checkin/4c81681bd34ca14308342280
+GEO:38.199143245677035;20.43876507437124
+LOCATION:Γρ, Λαμπράκη, Ληξούρι, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c812273e602b1f702b48f7a
+SUMMARY:Port of Poros (Λιμάνι Πόρου)
+DTSTAMP:20190829T121100Z
+DTSTART:20100903T162900Z
+DTEND:20100903T162900Z
+DESCRIPTION:Port of Poros (Λιμάνι Πόρου)\n280 86 Póros\nhttps://foursquare.
+	com/svathis/checkin/4c812273e602b1f702b48f7a
+URL:https://foursquare.com/svathis/checkin/4c812273e602b1f702b48f7a
+GEO:38.148452480294594;20.781436179329543
+LOCATION:280 86 Póros
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8109f6d8086dcb1fcf6852
+SUMMARY:Port of Kyllini (Λιμάνι Κυλλήνης)
+DTSTAMP:20190829T121100Z
+DTSTART:20100903T144500Z
+DTEND:20100903T144500Z
+DESCRIPTION:Port of Kyllini (Λιμάνι Κυλλήνης)\nΛιμένας Κυλλήνης\, 270 68 Κυ
+	λλήνη\, Ηλεία\nhttps://foursquare.com/svathis/checkin/4c8109f6d8086dcb1fcf
+	6852
+URL:https://foursquare.com/svathis/checkin/4c8109f6d8086dcb1fcf6852
+GEO:37.93639674920386;21.146670923525818
+LOCATION:Λιμένας Κυλλήνης, 270 68 Κυλλήνη, Ηλεία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c80a515dc018cfa976ebe6c
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100903T073400Z
+DTEND:20100903T073400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c80a515dc018cfa976ebe6c
+URL:https://foursquare.com/svathis/checkin/4c80a515dc018cfa976ebe6c
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c800f9451ada1cdc04a0610
+SUMMARY:Cielo
+DTSTAMP:20190829T121100Z
+DTSTART:20100902T205600Z
+DTEND:20100902T205600Z
+DESCRIPTION:Cielo\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4c800f9451ada1cdc04a0610
+URL:https://foursquare.com/svathis/checkin/4c800f9451ada1cdc04a0610
+GEO:38.261894593451764;21.73886776278611
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7ff5d247cc224bdbc66e9f
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20100902T190600Z
+DTEND:20100902T190600Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c7ff5d247cc224bdbc66e9f
+URL:https://foursquare.com/svathis/checkin/4c7ff5d247cc224bdbc66e9f
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7f5ce9171b224ba69e10b1
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100902T081400Z
+DTEND:20100902T081400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c7f5ce9171b224ba69e10b1
+URL:https://foursquare.com/svathis/checkin/4c7f5ce9171b224ba69e10b1
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7e0fa5d598a0932bb1c462
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100901T083200Z
+DTEND:20100901T083200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c7e0fa5d598a0932bb1c462
+URL:https://foursquare.com/svathis/checkin/4c7e0fa5d598a0932bb1c462
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7941ff2d3ba143e0858dd0
+SUMMARY:W Rio
+DTSTAMP:20190829T121100Z
+DTSTART:20100828T170600Z
+DTEND:20100828T170600Z
+DESCRIPTION:W Rio\nΠοσειδώνος (Μεγάλου Αλεξάνδρου)\, 265 00 Ρίο\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c7941ff2d3ba143e0858dd0
+URL:https://foursquare.com/svathis/checkin/4c7941ff2d3ba143e0858dd0
+GEO:38.30512678081841;21.776631493634426
+LOCATION:Ποσειδώνος (Μεγάλου Αλεξάνδρου), 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7838212d3ba1437d358ad0
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100827T221100Z
+DTEND:20100827T221100Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c7838212d3ba1437d358ad0
+URL:https://foursquare.com/svathis/checkin/4c7838212d3ba1437d358ad0
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c78229481bca093eb11f914
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20100827T203900Z
+DTEND:20100827T203900Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4c78229481bca093eb11f914
+URL:https://foursquare.com/svathis/checkin/4c78229481bca093eb11f914
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c777e2fa5676dcb6ed41821
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100827T085800Z
+DTEND:20100827T085800Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c777e2fa5676dcb6ed41821
+URL:https://foursquare.com/svathis/checkin/4c777e2fa5676dcb6ed41821
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c763174b474a1cd824bbbbf
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100826T091800Z
+DTEND:20100826T091800Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c763174b474a1cd824bbbbf
+URL:https://foursquare.com/svathis/checkin/4c763174b474a1cd824bbbbf
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7429ba3adda1437bdb03af
+SUMMARY:Φαγιούμ
+DTSTAMP:20190829T121100Z
+DTSTART:20100824T202100Z
+DTEND:20100824T202100Z
+DESCRIPTION:Φαγιούμ\nΒασιλείου Ρούφου 7\, 262 25 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4c7429ba3adda1437bdb03af
+URL:https://foursquare.com/svathis/checkin/4c7429ba3adda1437bdb03af
+GEO:38.24354626431797;21.740088175655508
+LOCATION:Βασιλείου Ρούφου 7, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7291f39e706dcbb5194b62
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100823T152100Z
+DTEND:20100823T152100Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c7291f39e706dcbb5194b62
+URL:https://foursquare.com/svathis/checkin/4c7291f39e706dcbb5194b62
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c72380b13228cfa52802a65
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100823T085700Z
+DTEND:20100823T085700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c72380b13228cfa52802a65
+URL:https://foursquare.com/svathis/checkin/4c72380b13228cfa52802a65
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c711ca59c6d6dcba173d47a
+SUMMARY:Voidokoilia Beach (Παραλία Βοϊδοκοιλιά)
+DTSTAMP:20190829T121100Z
+DTSTART:20100822T124800Z
+DTEND:20100822T124800Z
+DESCRIPTION:Voidokoilia Beach (Παραλία Βοϊδοκοιλιά)\nΠαραλία Βοϊδοκοιλιά\, 
+	240 01 Μεσσηνία\, Μεσσηνία\nhttps://foursquare.com/svathis/checkin/4c711ca
+	59c6d6dcba173d47a
+URL:https://foursquare.com/svathis/checkin/4c711ca59c6d6dcba173d47a
+GEO:36.9655252382115;21.66188330193914
+LOCATION:Παραλία Βοϊδοκοιλιά, 240 01 Μεσσηνία, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c70f3cf9375a09321900837
+SUMMARY:Κρίνος
+DTSTAMP:20190829T121100Z
+DTSTART:20100822T095400Z
+DTEND:20100822T095400Z
+DESCRIPTION:Κρίνος\nΠλατεία Τριών Ναυάρχων (Φιλελλήνων)\, 240 01 Πύλος\, Με
+	σσηνία\nhttps://foursquare.com/svathis/checkin/4c70f3cf9375a09321900837
+URL:https://foursquare.com/svathis/checkin/4c70f3cf9375a09321900837
+GEO:36.91346950054882;21.696329894034477
+LOCATION:Πλατεία Τριών Ναυάρχων (Φιλελλήνων), 240 01 Πύλος, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c701584df6b8cfafe16b74d
+SUMMARY:Εν Πλω
+DTSTAMP:20190829T121100Z
+DTSTART:20100821T180500Z
+DTEND:20100821T180500Z
+DESCRIPTION:Εν Πλω\nΠύλος\, Μεσσηνία\nhttps://foursquare.com/svathis/checki
+	n/4c701584df6b8cfafe16b74d
+URL:https://foursquare.com/svathis/checkin/4c701584df6b8cfafe16b74d
+GEO:36.91413884032473;21.694057759326984
+LOCATION:Πύλος, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7015509c6d6dcb2b6fd17a
+SUMMARY:Εν Πλω
+DTSTAMP:20190829T121100Z
+DTSTART:20100821T180500Z
+DTEND:20100821T180500Z
+DESCRIPTION:Εν Πλω\nΠύλος\, Μεσσηνία\nhttps://foursquare.com/svathis/checki
+	n/4c7015509c6d6dcb2b6fd17a
+URL:https://foursquare.com/svathis/checkin/4c7015509c6d6dcb2b6fd17a
+GEO:36.91413884032473;21.694057759326984
+LOCATION:Πύλος, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6ff9b89375a0936a6c0537
+SUMMARY:Κρίνος
+DTSTAMP:20190829T121100Z
+DTSTART:20100821T160700Z
+DTEND:20100821T160700Z
+DESCRIPTION:Κρίνος\nΠλατεία Τριών Ναυάρχων (Φιλελλήνων)\, 240 01 Πύλος\, Με
+	σσηνία\nhttps://foursquare.com/svathis/checkin/4c6ff9b89375a0936a6c0537
+URL:https://foursquare.com/svathis/checkin/4c6ff9b89375a0936a6c0537
+GEO:36.91346950054882;21.696329894034477
+LOCATION:Πλατεία Τριών Ναυάρχων (Φιλελλήνων), 240 01 Πύλος, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6f852034443704266d215f
+SUMMARY:Camping Ammos
+DTSTAMP:20190829T121100Z
+DTSTART:20100821T074900Z
+DTEND:20100821T074900Z
+DESCRIPTION:Camping Ammos\nΚορώνης-Μεθώνης\, 240 06 Φοινικούντα\, Μεσσηνία\
+	nhttps://foursquare.com/svathis/checkin/4c6f852034443704266d215f
+URL:https://foursquare.com/svathis/checkin/4c6f852034443704266d215f
+GEO:36.80540240690746;21.790923079332217
+LOCATION:Κορώνης-Μεθώνης, 240 06 Φοινικούντα, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6ee8a69375a093bb4e0237
+SUMMARY:Terra Mare
+DTSTAMP:20190829T121100Z
+DTSTART:20100820T204200Z
+DTEND:20100820T204200Z
+DESCRIPTION:Terra Mare\nΠαραλία Φοινικούντας\, 240 06 Φοινικούντα\, Μεσσηνί
+	α\nhttps://foursquare.com/svathis/checkin/4c6ee8a69375a093bb4e0237
+URL:https://foursquare.com/svathis/checkin/4c6ee8a69375a093bb4e0237
+GEO:36.807374719262036;21.8077686614554
+LOCATION:Παραλία Φοινικούντας, 240 06 Φοινικούντα, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6daf41d5c3a1cd5c3bc62b
+SUMMARY:Terra Mare
+DTSTAMP:20190829T121100Z
+DTSTART:20100819T222500Z
+DTEND:20100819T222500Z
+DESCRIPTION:Terra Mare\nΠαραλία Φοινικούντας\, 240 06 Φοινικούντα\, Μεσσηνί
+	α\nhttps://foursquare.com/svathis/checkin/4c6daf41d5c3a1cd5c3bc62b
+URL:https://foursquare.com/svathis/checkin/4c6daf41d5c3a1cd5c3bc62b
+GEO:36.807374719262036;21.8077686614554
+LOCATION:Παραλία Φοινικούντας, 240 06 Φοινικούντα, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6d4210a437224bbf772cb1
+SUMMARY:Camping Ammos
+DTSTAMP:20190829T121100Z
+DTSTART:20100819T143900Z
+DTEND:20100819T143900Z
+DESCRIPTION:Camping Ammos\nΚορώνης-Μεθώνης\, 240 06 Φοινικούντα\, Μεσσηνία\
+	nhttps://foursquare.com/svathis/checkin/4c6d4210a437224bbf772cb1
+URL:https://foursquare.com/svathis/checkin/4c6d4210a437224bbf772cb1
+GEO:36.80540240690746;21.790923079332217
+LOCATION:Κορώνης-Μεθώνης, 240 06 Φοινικούντα, Μεσσηνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6c5ef065eda093f8c24bd0
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100818T223000Z
+DTEND:20100818T223000Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c6c5ef065eda093f8c24bd0
+URL:https://foursquare.com/svathis/checkin/4c6c5ef065eda093f8c24bd0
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6c465ae6b7b1f77f90a68e
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20100818T204500Z
+DTEND:20100818T204500Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c6c465ae6b7b1f77f90a68e
+URL:https://foursquare.com/svathis/checkin/4c6c465ae6b7b1f77f90a68e
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6c3474e13db60cc469d5b1
+SUMMARY:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίου «Χ
+	αρίλαος Τρικούπης»)
+DTSTAMP:20190829T121100Z
+DTSTART:20100818T192800Z
+DTEND:20100818T192800Z
+DESCRIPTION:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίο
+	υ «Χαρίλαος Τρικούπης»)\nΓέφυρα Ρίου-Αντιρρίου (Α5/E55)\, Ρίο - Αντίρριο\n
+	https://foursquare.com/svathis/checkin/4c6c3474e13db60cc469d5b1
+URL:https://foursquare.com/svathis/checkin/4c6c3474e13db60cc469d5b1
+GEO:38.32139027890896;21.772842407226562
+LOCATION:Γέφυρα Ρίου-Αντιρρίου (Α5/E55), Ρίο - Αντίρριο
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6b9a197c052d7f45f129cf
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100818T083000Z
+DTEND:20100818T083000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c6b9a197c052d7f45f129cf
+URL:https://foursquare.com/svathis/checkin/4c6b9a197c052d7f45f129cf
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6a6f24897b1b8d15aeb117
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20100817T111400Z
+DTEND:20100817T111400Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c6a6f24897b1b8d15aeb117
+URL:https://foursquare.com/svathis/checkin/4c6a6f24897b1b8d15aeb117
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6a51958e7c0f470be1e10f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100817T090800Z
+DTEND:20100817T090800Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c6a51958e7c0f470be1e10f
+URL:https://foursquare.com/svathis/checkin/4c6a51958e7c0f470be1e10f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c695ec73bad2d7fcb9dafee
+SUMMARY:Mirasol
+DTSTAMP:20190829T121100Z
+DTSTART:20100816T155200Z
+DTEND:20100816T155200Z
+DESCRIPTION:Mirasol\nΠαραλία Ροδινης\, Πάτρα\, Αχαΐα\nhttps://foursquare.co
+	m/svathis/checkin/4c695ec73bad2d7fcb9dafee
+URL:https://foursquare.com/svathis/checkin/4c695ec73bad2d7fcb9dafee
+GEO:38.3257728095531;21.891327451520645
+LOCATION:Παραλία Ροδινης, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c665cc9c2ead13afe98b380
+SUMMARY:Karathona Beach (Παραλία Καραθώνα)
+DTSTAMP:20190829T121100Z
+DTSTART:20100814T090700Z
+DTEND:20100814T090700Z
+DESCRIPTION:Karathona Beach (Παραλία Καραθώνα)\nΠαραλία Καραθώνα\, 211 00 Ν
+	αύπλιο\, Αργολίδα\nhttps://foursquare.com/svathis/checkin/4c665cc9c2ead13a
+	fe98b380
+URL:https://foursquare.com/svathis/checkin/4c665cc9c2ead13afe98b380
+GEO:37.54117214343162;22.822476571434724
+LOCATION:Παραλία Καραθώνα, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6509203f69c9b606318ad9
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100813T085800Z
+DTEND:20100813T085800Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c6509203f69c9b606318ad9
+URL:https://foursquare.com/svathis/checkin/4c6509203f69c9b606318ad9
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c63cf4efa7bc928bb6b1127
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20100812T103900Z
+DTEND:20100812T103900Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c63cf4efa7bc928bb6b1127
+URL:https://foursquare.com/svathis/checkin/4c63cf4efa7bc928bb6b1127
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c63cf39edd320a1343cb029
+SUMMARY:Ναυτ-οίκο
+DTSTAMP:20190829T121100Z
+DTSTART:20100812T103800Z
+DTEND:20100812T103800Z
+DESCRIPTION:Ναυτ-οίκο\nΠοσειδώνος 12\, 265 04 Ρίο\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c63cf39edd320a1343cb029
+URL:https://foursquare.com/svathis/checkin/4c63cf39edd320a1343cb029
+GEO:38.303663992898706;21.775095515652293
+LOCATION:Ποσειδώνος 12, 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c63b87f69a1c9b65ed63ba4
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100812T090100Z
+DTEND:20100812T090100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c63b87f69a1c9b65ed63ba4
+URL:https://foursquare.com/svathis/checkin/4c63b87f69a1c9b65ed63ba4
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c61b04a69a1c9b621e236a4
+SUMMARY:Tam Toom
+DTSTAMP:20190829T121100Z
+DTSTART:20100810T200200Z
+DTEND:20100810T200200Z
+DESCRIPTION:Tam Toom\nΕλευθερίας (28ης Οκτωβρίου)\, Ρίο\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4c61b04a69a1c9b621e236a4
+URL:https://foursquare.com/svathis/checkin/4c61b04a69a1c9b621e236a4
+GEO:38.31241458548319;21.7989519116527
+LOCATION:Ελευθερίας (28ης Οκτωβρίου), Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c61350f832fa593aa6ef1d3
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100810T111600Z
+DTEND:20100810T111600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c61350f832fa593aa6ef1d3
+URL:https://foursquare.com/svathis/checkin/4c61350f832fa593aa6ef1d3
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5fc3bd12e5c92807d51d4c
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100809T090000Z
+DTEND:20100809T090000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c5fc3bd12e5c92807d51d4c
+URL:https://foursquare.com/svathis/checkin/4c5fc3bd12e5c92807d51d4c
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5edcf385a1e21e89395d11
+SUMMARY:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίου «Χ
+	αρίλαος Τρικούπης»)
+DTSTAMP:20190829T121100Z
+DTSTART:20100808T163600Z
+DTEND:20100808T163600Z
+DESCRIPTION:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίο
+	υ «Χαρίλαος Τρικούπης»)\nΓέφυρα Ρίου-Αντιρρίου (Α5/E55)\, Ρίο - Αντίρριο\n
+	https://foursquare.com/svathis/checkin/4c5edcf385a1e21e89395d11
+URL:https://foursquare.com/svathis/checkin/4c5edcf385a1e21e89395d11
+GEO:38.32139027890896;21.772842407226562
+LOCATION:Γέφυρα Ρίου-Αντιρρίου (Α5/E55), Ρίο - Αντίρριο
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5e8e9d85a1e21e528b5c11
+SUMMARY:Marathia Beach (Παραλία Μαραθιά)
+DTSTAMP:20190829T121100Z
+DTSTART:20100808T110100Z
+DTEND:20100808T110100Z
+DESCRIPTION:Marathia Beach (Παραλία Μαραθιά)\nΠαραλία Μαραθιά\, 330 56 Φωκί
+	δα\, Φωκίδα\nhttps://foursquare.com/svathis/checkin/4c5e8e9d85a1e21e528b5c
+	11
+URL:https://foursquare.com/svathis/checkin/4c5e8e9d85a1e21e528b5c11
+GEO:38.391601078063815;22.012387989484665
+LOCATION:Παραλία Μαραθιά, 330 56 Φωκίδα, Φωκίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5e7c369b28d13a09925c70
+SUMMARY:Cafe Κάστρο
+DTSTAMP:20190829T121100Z
+DTSTART:20100808T094300Z
+DTEND:20100808T094300Z
+DESCRIPTION:Cafe Κάστρο\nΚάστρο Ναυπάκτου\, 303 00 Ναύπακτος\, Αιτωλοακαρνα
+	νία\nhttps://foursquare.com/svathis/checkin/4c5e7c369b28d13a09925c70
+URL:https://foursquare.com/svathis/checkin/4c5e7c369b28d13a09925c70
+GEO:38.394478071334525;21.826988878514644
+LOCATION:Κάστρο Ναυπάκτου, 303 00 Ναύπακτος, Αιτωλοακαρνανία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5d4de37735c9b608a08e72
+SUMMARY:Blue Lake
+DTSTAMP:20190829T121100Z
+DTSTART:20100807T121300Z
+DTEND:20100807T121300Z
+DESCRIPTION:Blue Lake\nΠαραλία Μοναστηράκι\, 330 56 Φωκίδα\, Φωκίδα\nhttps:
+	//foursquare.com/svathis/checkin/4c5d4de37735c9b608a08e72
+URL:https://foursquare.com/svathis/checkin/4c5d4de37735c9b608a08e72
+GEO:38.40447075943451;21.931969370011807
+LOCATION:Παραλία Μοναστηράκι, 330 56 Φωκίδα, Φωκίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5d1872d25320a18f2bc57a
+SUMMARY:Psani Beach (Παραλία Ψανής)
+DTSTAMP:20190829T121100Z
+DTSTART:20100807T082500Z
+DTEND:20100807T082500Z
+DESCRIPTION:Psani Beach (Παραλία Ψανής)\nΠαραλία Ψανής\, Ναύπακτος\, Αιτωλο
+	ακαρνανία\nhttps://foursquare.com/svathis/checkin/4c5d1872d25320a18f2bc57a
+URL:https://foursquare.com/svathis/checkin/4c5d1872d25320a18f2bc57a
+GEO:38.391214640752125;21.82457119503795
+LOCATION:Παραλία Ψανής, Ναύπακτος, Αιτωλοακαρνανία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5c24ef85a1e21e46bc5511
+SUMMARY:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίου «Χ
+	αρίλαος Τρικούπης»)
+DTSTAMP:20190829T121100Z
+DTSTART:20100806T150600Z
+DTEND:20100806T150600Z
+DESCRIPTION:Rio-Antirrio Βridge "Charilaos Trikoupis" (Γέφυρα Ρίου-Αντιρρίο
+	υ «Χαρίλαος Τρικούπης»)\nΓέφυρα Ρίου-Αντιρρίου (Α5/E55)\, Ρίο - Αντίρριο\n
+	https://foursquare.com/svathis/checkin/4c5c24ef85a1e21e46bc5511
+URL:https://foursquare.com/svathis/checkin/4c5c24ef85a1e21e46bc5511
+GEO:38.32139027890896;21.772842407226562
+LOCATION:Γέφυρα Ρίου-Αντιρρίου (Α5/E55), Ρίο - Αντίρριο
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5bb51b2815c928c936b067
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100806T070900Z
+DTEND:20100806T070900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c5bb51b2815c928c936b067
+URL:https://foursquare.com/svathis/checkin/4c5bb51b2815c928c936b067
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c58908717192d7fbc240bab
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100803T215600Z
+DTEND:20100803T215600Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c58908717192d7fbc240bab
+URL:https://foursquare.com/svathis/checkin/4c58908717192d7fbc240bab
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5879d57329c9282c409180
+SUMMARY:Tam Toom
+DTSTAMP:20190829T121100Z
+DTSTART:20100803T201900Z
+DTEND:20100803T201900Z
+DESCRIPTION:Tam Toom\nΕλευθερίας (28ης Οκτωβρίου)\, Ρίο\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4c5879d57329c9282c409180
+URL:https://foursquare.com/svathis/checkin/4c5879d57329c9282c409180
+GEO:38.31241458548319;21.7989519116527
+LOCATION:Ελευθερίας (28ης Οκτωβρίου), Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c56756130d82d7f23acd762
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100802T073600Z
+DTEND:20100802T073600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c56756130d82d7f23acd762
+URL:https://foursquare.com/svathis/checkin/4c56756130d82d7f23acd762
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c559018fd2ea593d2f5f42b
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100801T151700Z
+DTEND:20100801T151700Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c559018fd2ea593d2f5f42b
+URL:https://foursquare.com/svathis/checkin/4c559018fd2ea593d2f5f42b
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c54acfaa724e21eb0ebc1f6
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T230800Z
+DTEND:20100731T230800Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c54acfaa724e21eb0ebc1f6
+URL:https://foursquare.com/svathis/checkin/4c54acfaa724e21eb0ebc1f6
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c54a45e479fc928c52f7a93
+SUMMARY:Tam Toom
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T223100Z
+DTEND:20100731T223100Z
+DESCRIPTION:Tam Toom\nΕλευθερίας (28ης Οκτωβρίου)\, Ρίο\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4c54a45e479fc928c52f7a93
+URL:https://foursquare.com/svathis/checkin/4c54a45e479fc928c52f7a93
+GEO:38.31241458548319;21.7989519116527
+LOCATION:Ελευθερίας (28ης Οκτωβρίου), Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c549b72479fc928420c6993
+SUMMARY:Γκαζόζα
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T215300Z
+DTEND:20100731T215300Z
+DESCRIPTION:Γκαζόζα\n265 00 Ρίο\, Αχαΐα\nhttps://foursquare.com/svathis/che
+	ckin/4c549b72479fc928420c6993
+URL:https://foursquare.com/svathis/checkin/4c549b72479fc928420c6993
+GEO:38.30879697336429;21.78915023803711
+LOCATION:265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c54989f479fc928dc366593
+SUMMARY:Γκαζόζα
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T214100Z
+DTEND:20100731T214100Z
+DESCRIPTION:Γκαζόζα\n265 00 Ρίο\, Αχαΐα\nhttps://foursquare.com/svathis/che
+	ckin/4c54989f479fc928dc366593
+URL:https://foursquare.com/svathis/checkin/4c54989f479fc928dc366593
+GEO:38.30879697336429;21.78915023803711
+LOCATION:265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c54902b06901b8dbfef004c
+SUMMARY:Γκαζόζα
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T210500Z
+DTEND:20100731T210500Z
+DESCRIPTION:Γκαζόζα\n265 00 Ρίο\, Αχαΐα\nhttps://foursquare.com/svathis/che
+	ckin/4c54902b06901b8dbfef004c
+URL:https://foursquare.com/svathis/checkin/4c54902b06901b8dbfef004c
+GEO:38.30879697336429;21.78915023803711
+LOCATION:265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c54879d4623be9a7de8eef2
+SUMMARY:Camino Real
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T202900Z
+DTEND:20100731T202900Z
+DESCRIPTION:Camino Real\nΜ. Αλέξανδρου 5\, 265 00 Ρίο\nhttps://foursquare.c
+	om/svathis/checkin/4c54879d4623be9a7de8eef2
+URL:https://foursquare.com/svathis/checkin/4c54879d4623be9a7de8eef2
+GEO:38.304385432028326;21.777777671813965
+LOCATION:Μ. Αλέξανδρου 5, 265 00 Ρίο
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5483f1fd2ea5933ddf382a
+SUMMARY:Camino Real
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T201300Z
+DTEND:20100731T201300Z
+DESCRIPTION:Camino Real\nΜ. Αλέξανδρου 5\, 265 00 Ρίο\nhttps://foursquare.c
+	om/svathis/checkin/4c5483f1fd2ea5933ddf382a
+URL:https://foursquare.com/svathis/checkin/4c5483f1fd2ea5933ddf382a
+GEO:38.304385432028326;21.777777671813965
+LOCATION:Μ. Αλέξανδρου 5, 265 00 Ρίο
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5420051b46c9b6e4fd0fce
+SUMMARY:Mirasol
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T130700Z
+DTEND:20100731T130700Z
+DESCRIPTION:Mirasol\nΠαραλία Ροδινης\, Πάτρα\, Αχαΐα\nhttps://foursquare.co
+	m/svathis/checkin/4c5420051b46c9b6e4fd0fce
+URL:https://foursquare.com/svathis/checkin/4c5420051b46c9b6e4fd0fce
+GEO:38.3257728095531;21.891327451520645
+LOCATION:Παραλία Ροδινης, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c53ea861b46c9b62f53bbcd
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100731T091900Z
+DTEND:20100731T091900Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c53ea861b46c9b62f53bbcd
+URL:https://foursquare.com/svathis/checkin/4c53ea861b46c9b62f53bbcd
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c52e649b6dabe9a7f4dea13
+SUMMARY:Το ποδήλατο
+DTSTAMP:20190829T121100Z
+DTSTART:20100730T144800Z
+DTEND:20100730T144800Z
+DESCRIPTION:Το ποδήλατο\nΠαπαφλέσα (Ευμήλου)\, Πάτρα\, Αχαΐα\nhttps://fours
+	quare.com/svathis/checkin/4c52e649b6dabe9a7f4dea13
+URL:https://foursquare.com/svathis/checkin/4c52e649b6dabe9a7f4dea13
+GEO:38.24094409265185;21.727309226989746
+LOCATION:Παπαφλέσα (Ευμήλου), Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c52768a99ecc9b686f3f85a
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100730T065100Z
+DTEND:20100730T065100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c52768a99ecc9b686f3f85a
+URL:https://foursquare.com/svathis/checkin/4c52768a99ecc9b686f3f85a
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5196253940be9a44d01909
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100729T145400Z
+DTEND:20100729T145400Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c5196253940be9a44d01909
+URL:https://foursquare.com/svathis/checkin/4c5196253940be9a44d01909
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4fe229885c1b8d86e05138
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100728T075400Z
+DTEND:20100728T075400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c4fe229885c1b8d86e05138
+URL:https://foursquare.com/svathis/checkin/4c4fe229885c1b8d86e05138
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4e954292b6a593afad2870
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100727T081300Z
+DTEND:20100727T081300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c4e954292b6a593afad2870
+URL:https://foursquare.com/svathis/checkin/4c4e954292b6a593afad2870
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c495652b5eec9b63eb59aa4
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100723T084400Z
+DTEND:20100723T084400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c495652b5eec9b63eb59aa4
+URL:https://foursquare.com/svathis/checkin/4c495652b5eec9b63eb59aa4
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c48a8d631e41b8dc7d95035
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100722T202300Z
+DTEND:20100722T202300Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c48a8d631e41b8dc7d95035
+URL:https://foursquare.com/svathis/checkin/4c48a8d631e41b8dc7d95035
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4889b60f5aa59366958176
+SUMMARY:Μύθος
+DTSTAMP:20190829T121100Z
+DTSTART:20100722T181100Z
+DTEND:20100722T181100Z
+DESCRIPTION:Μύθος\nΤριών Ναυάρχων 15\, Πάτρα\, Αχαΐα\nhttps://foursquare.co
+	m/svathis/checkin/4c4889b60f5aa59366958176
+URL:https://foursquare.com/svathis/checkin/4c4889b60f5aa59366958176
+GEO:38.243196303911475;21.72931651922953
+LOCATION:Τριών Ναυάρχων 15, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c470fcc1ddec928d5239c32
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100721T151800Z
+DTEND:20100721T151800Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c470fcc1ddec928d5239c32
+URL:https://foursquare.com/svathis/checkin/4c470fcc1ddec928d5239c32
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c469d4996abd13a805d6e01
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100721T071000Z
+DTEND:20100721T071000Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c469d4996abd13a805d6e01
+URL:https://foursquare.com/svathis/checkin/4c469d4996abd13a805d6e01
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c43f7c5dd1f2d7f27417ff9
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100719T065900Z
+DTEND:20100719T065900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c43f7c5dd1f2d7f27417ff9
+URL:https://foursquare.com/svathis/checkin/4c43f7c5dd1f2d7f27417ff9
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4338a4af052d7f130b8079
+SUMMARY:Ψαροταβέρνα Αλυκές
+DTSTAMP:20190829T121100Z
+DTSTART:20100718T172300Z
+DTEND:20100718T172300Z
+DESCRIPTION:Ψαροταβέρνα Αλυκές\nΑλυκαί\, Δύμη\nhttps://foursquare.com/svath
+	is/checkin/4c4338a4af052d7f130b8079
+URL:https://foursquare.com/svathis/checkin/4c4338a4af052d7f130b8079
+GEO:38.15617600391277;21.541173707250067
+LOCATION:Αλυκαί, Δύμη
+END:VEVENT
+BEGIN:VEVENT
+UID:4c431d70d7fad13afb090ada
+SUMMARY:Gianniskari beach (Παραλία Γιαννισκάρι)
+DTSTAMP:20190829T121100Z
+DTSTART:20100718T152700Z
+DTEND:20100718T152700Z
+DESCRIPTION:Gianniskari beach (Παραλία Γιαννισκάρι)\nΆραξος\, Άραξος\, Αχαΐ
+	α\nhttps://foursquare.com/svathis/checkin/4c431d70d7fad13afb090ada
+URL:https://foursquare.com/svathis/checkin/4c431d70d7fad13afb090ada
+GEO:38.17547335859461;21.366313279167567
+LOCATION:Άραξος, Άραξος, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4177b63735be9a9a7d18a4
+SUMMARY:Crab Cafe
+DTSTAMP:20190829T121100Z
+DTSTART:20100717T092800Z
+DTEND:20100717T092800Z
+DESCRIPTION:Crab Cafe\nΠλατεια Γεωργίου 2\, Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c4177b63735be9a9a7d18a4
+URL:https://foursquare.com/svathis/checkin/4c4177b63735be9a9a7d18a4
+GEO:38.24696489335781;21.734755906236984
+LOCATION:Πλατεια Γεωργίου 2, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c40cb63ce54e21eda160a1a
+SUMMARY:Φαγιούμ
+DTSTAMP:20190829T121100Z
+DTSTART:20100716T211300Z
+DTEND:20100716T211300Z
+DESCRIPTION:Φαγιούμ\nΒασιλείου Ρούφου 7\, 262 25 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4c40cb63ce54e21eda160a1a
+URL:https://foursquare.com/svathis/checkin/4c40cb63ce54e21eda160a1a
+GEO:38.24354626431797;21.740088175655508
+LOCATION:Βασιλείου Ρούφου 7, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c40237fd7fad13a698605da
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100716T091600Z
+DTEND:20100716T091600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c40237fd7fad13a698605da
+URL:https://foursquare.com/svathis/checkin/4c40237fd7fad13a698605da
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3f67d1e26920a175655be7
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20100715T195600Z
+DTEND:20100715T195600Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4c3f67d1e26920a175655be7
+URL:https://foursquare.com/svathis/checkin/4c3f67d1e26920a175655be7
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3f2920db3b1b8d7b616695
+SUMMARY:Το ποδήλατο
+DTSTAMP:20190829T121100Z
+DTSTART:20100715T152800Z
+DTEND:20100715T152800Z
+DESCRIPTION:Το ποδήλατο\nΠαπαφλέσα (Ευμήλου)\, Πάτρα\, Αχαΐα\nhttps://fours
+	quare.com/svathis/checkin/4c3f2920db3b1b8d7b616695
+URL:https://foursquare.com/svathis/checkin/4c3f2920db3b1b8d7b616695
+GEO:38.24094409265185;21.727309226989746
+LOCATION:Παπαφλέσα (Ευμήλου), Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3ebf300e0d0f4778ff157f
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100715T075600Z
+DTEND:20100715T075600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c3ebf300e0d0f4778ff157f
+URL:https://foursquare.com/svathis/checkin/4c3ebf300e0d0f4778ff157f
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3c785e86ce328ff8c1ab2d
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100713T142900Z
+DTEND:20100713T142900Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c3c785e86ce328ff8c1ab2d
+URL:https://foursquare.com/svathis/checkin/4c3c785e86ce328ff8c1ab2d
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3b6869d94dc9b65dc5ffe7
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100712T190900Z
+DTEND:20100712T190900Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c3b6869d94dc9b65dc5ffe7
+URL:https://foursquare.com/svathis/checkin/4c3b6869d94dc9b65dc5ffe7
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3ab7a51a1cd13ab448b50d
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100712T063500Z
+DTEND:20100712T063500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c3ab7a51a1cd13ab448b50d
+URL:https://foursquare.com/svathis/checkin/4c3ab7a51a1cd13ab448b50d
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3983ec0a71c9b638b242c9
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20100711T084200Z
+DTEND:20100711T084200Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4c3983ec0a71c9b638b
+	242c9
+URL:https://foursquare.com/svathis/checkin/4c3983ec0a71c9b638b242c9
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c38d8ac3849c928003ec0b1
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100710T203100Z
+DTEND:20100710T203100Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c38d8ac3849c928003ec0b1
+URL:https://foursquare.com/svathis/checkin/4c38d8ac3849c928003ec0b1
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c384a611e06d13a477c773e
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100710T102400Z
+DTEND:20100710T102400Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c384a611e06d13a477c773e
+URL:https://foursquare.com/svathis/checkin/4c384a611e06d13a477c773e
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c38404a18e72d7f670a18f5
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20100710T094100Z
+DTEND:20100710T094100Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4c38404a18e72d7f670a18f5
+URL:https://foursquare.com/svathis/checkin/4c38404a18e72d7f670a18f5
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c37aa623849c928e022beb1
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100709T230100Z
+DTEND:20100709T230100Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c37aa623849c928e022beb1
+URL:https://foursquare.com/svathis/checkin/4c37aa623849c928e022beb1
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3796470a71c9b630213fc9
+SUMMARY:Hall
+DTSTAMP:20190829T121100Z
+DTSTART:20100709T213600Z
+DTEND:20100709T213600Z
+DESCRIPTION:Hall\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4c3796470a71c9b630213fc9
+URL:https://foursquare.com/svathis/checkin/4c3796470a71c9b630213fc9
+GEO:38.26177373579616;21.739148497581482
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c364a01dfb0e21eaecfaaa8
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100708T215800Z
+DTEND:20100708T215800Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c364a01dfb0e21eaecfaaa8
+URL:https://foursquare.com/svathis/checkin/4c364a01dfb0e21eaecfaaa8
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c35f66566e40f47b5f5cb8b
+SUMMARY:Το ποδήλατο
+DTSTAMP:20190829T121100Z
+DTSTART:20100708T160100Z
+DTEND:20100708T160100Z
+DESCRIPTION:Το ποδήλατο\nΠαπαφλέσα (Ευμήλου)\, Πάτρα\, Αχαΐα\nhttps://fours
+	quare.com/svathis/checkin/4c35f66566e40f47b5f5cb8b
+URL:https://foursquare.com/svathis/checkin/4c35f66566e40f47b5f5cb8b
+GEO:38.24094409265185;21.727309226989746
+LOCATION:Παπαφλέσα (Ευμήλου), Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c34d14b452620a120c4250f
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100707T191100Z
+DTEND:20100707T191100Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c34d14b452620a120c4250f
+URL:https://foursquare.com/svathis/checkin/4c34d14b452620a120c4250f
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c30d64e3896e21e0c22e690
+SUMMARY:Pinakothiki
+DTSTAMP:20190829T121100Z
+DTSTART:20100704T184300Z
+DTEND:20100704T184300Z
+DESCRIPTION:Pinakothiki\n283 00 Ιθάκη\, Κεφαλονιά\nhttps://foursquare.com/s
+	vathis/checkin/4c30d64e3896e21e0c22e690
+URL:https://foursquare.com/svathis/checkin/4c30d64e3896e21e0c22e690
+GEO:38.36481783613915;20.71994960448067
+LOCATION:283 00 Ιθάκη, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c2f522716adc928994abd9c
+SUMMARY:Mills
+DTSTAMP:20190829T121100Z
+DTSTART:20100703T150700Z
+DTEND:20100703T150700Z
+DESCRIPTION:Mills\nΚιονι\, Ionian Islands\, Κεφαλονιά\nhttps://foursquare.c
+	om/svathis/checkin/4c2f522716adc928994abd9c
+URL:https://foursquare.com/svathis/checkin/4c2f522716adc928994abd9c
+GEO:38.44991608513633;20.69029992508388
+LOCATION:Κιονι, Ionian Islands, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c2e3f8d3a4d0f470d44e586
+SUMMARY:Drakoulis Cafe
+DTSTAMP:20190829T121100Z
+DTSTART:20100702T193500Z
+DTEND:20100702T193500Z
+DESCRIPTION:Drakoulis Cafe\n283 00 Ιθάκη\, Κεφαλονιά\nhttps://foursquare.co
+	m/svathis/checkin/4c2e3f8d3a4d0f470d44e586
+URL:https://foursquare.com/svathis/checkin/4c2e3f8d3a4d0f470d44e586
+GEO:38.364776647951665;20.71974277496338
+LOCATION:283 00 Ιθάκη, Κεφαλονιά
+END:VEVENT
+BEGIN:VEVENT
+UID:4c29b307ed0ac9b6652862aa
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100629T084700Z
+DTEND:20100629T084700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c29b307ed0ac9b6652862aa
+URL:https://foursquare.com/svathis/checkin/4c29b307ed0ac9b6652862aa
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c29a9b797d00f472bc441ea
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20100629T080700Z
+DTEND:20100629T080700Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c29a9b797d00f472bc441ea
+URL:https://foursquare.com/svathis/checkin/4c29a9b797d00f472bc441ea
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c27043e136d20a19466e661
+SUMMARY:Ministry
+DTSTAMP:20190829T121100Z
+DTSTART:20100627T075600Z
+DTEND:20100627T075600Z
+DESCRIPTION:Ministry\nΚωνσταντίνου Παλαιολόγου 84 (Κλεομβρότου)\, 231 00 Σπ
+	άρτη\, Λακωνία\nhttps://foursquare.com/svathis/checkin/4c27043e136d20a1946
+	6e661
+URL:https://foursquare.com/svathis/checkin/4c27043e136d20a19466e661
+GEO:37.07507543739252;22.430087413290327
+LOCATION:Κωνσταντίνου Παλαιολόγου 84 (Κλεομβρότου), 231 00 Σπάρτη, Λακωνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c265161c11dc9b683c22824
+SUMMARY:Karma
+DTSTAMP:20190829T121100Z
+DTSTART:20100626T191300Z
+DTEND:20100626T191300Z
+DESCRIPTION:Karma\nΚλεομβρότου 11\, 231 00 Σπάρτη\, Λακωνία\nhttps://foursq
+	uare.com/svathis/checkin/4c265161c11dc9b683c22824
+URL:https://foursquare.com/svathis/checkin/4c265161c11dc9b683c22824
+GEO:37.075098;22.43059822
+LOCATION:Κλεομβρότου 11, 231 00 Σπάρτη, Λακωνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c261d645c5ca593787c45fe
+SUMMARY:Mystras (Μυστράς)
+DTSTAMP:20190829T121100Z
+DTSTART:20100626T153100Z
+DTEND:20100626T153100Z
+DESCRIPTION:Mystras (Μυστράς)\n231 00 Λακωνία\, Λακωνία\nhttps://foursquare
+	.com/svathis/checkin/4c261d645c5ca593787c45fe
+URL:https://foursquare.com/svathis/checkin/4c261d645c5ca593787c45fe
+GEO:37.06873843120686;22.375288009643555
+LOCATION:231 00 Λακωνία, Λακωνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c25f3faa852c928a0afe56c
+SUMMARY:Ministry
+DTSTAMP:20190829T121100Z
+DTSTART:20100626T123500Z
+DTEND:20100626T123500Z
+DESCRIPTION:Ministry\nΚωνσταντίνου Παλαιολόγου 84 (Κλεομβρότου)\, 231 00 Σπ
+	άρτη\, Λακωνία\nhttps://foursquare.com/svathis/checkin/4c25f3faa852c928a0a
+	fe56c
+URL:https://foursquare.com/svathis/checkin/4c25f3faa852c928a0afe56c
+GEO:37.07507543739252;22.430087413290327
+LOCATION:Κωνσταντίνου Παλαιολόγου 84 (Κλεομβρότου), 231 00 Σπάρτη, Λακωνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c25ea11f1272d7f399085c5
+SUMMARY:Lakonia Hotel
+DTSTAMP:20190829T121100Z
+DTSTART:20100626T115200Z
+DTEND:20100626T115200Z
+DESCRIPTION:Lakonia Hotel\nK. Palaiologou 89\, Σπάρτη\, Λακωνία\nhttps://fo
+	ursquare.com/svathis/checkin/4c25ea11f1272d7f399085c5
+URL:https://foursquare.com/svathis/checkin/4c25ea11f1272d7f399085c5
+GEO:37.07495323554438;22.430141643159768
+LOCATION:K. Palaiologou 89, Σπάρτη, Λακωνία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c25d54ff7ced13a753f256d
+SUMMARY:ΣΕΑ Αλέα
+DTSTAMP:20190829T121100Z
+DTSTART:20100626T102400Z
+DTEND:20100626T102400Z
+DESCRIPTION:ΣΕΑ Αλέα\n142o χλμ Ε.Ο. Αθηνών-Κορίνθου-Τριπόλεως\, Αρκαδία\, Α
+	ρκαδία\nhttps://foursquare.com/svathis/checkin/4c25d54ff7ced13a753f256d
+URL:https://foursquare.com/svathis/checkin/4c25d54ff7ced13a753f256d
+GEO:37.651323169429865;22.464528965947572
+LOCATION:142o χλμ Ε.Ο. Αθηνών-Κορίνθου-Τριπόλεως, Αρκαδία, Αρκαδία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c227b0711de20a1bcef84ce
+SUMMARY:Hasomeri (Χασομέρι)
+DTSTAMP:20190829T121100Z
+DTSTART:20100623T212200Z
+DTEND:20100623T212200Z
+DESCRIPTION:Hasomeri (Χασομέρι)\nΠαπαδιαμαντοπούλου 10 (Κάστρο)\, 262 25 Πά
+	τρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4c227b0711de20a1bcef84
+	ce
+URL:https://foursquare.com/svathis/checkin/4c227b0711de20a1bcef84ce
+GEO:38.24480261638034;21.74007290510334
+LOCATION:Παπαδιαμαντοπούλου 10 (Κάστρο), 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c22733599282d7f632467b0
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100623T204800Z
+DTEND:20100623T204800Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c22733599282d7f632467b0
+URL:https://foursquare.com/svathis/checkin/4c22733599282d7f632467b0
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c226d4c7e85c9289401bc21
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100623T202300Z
+DTEND:20100623T202300Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4c226d4c7e85c9289401bc21
+URL:https://foursquare.com/svathis/checkin/4c226d4c7e85c9289401bc21
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c21b4117e85c92815eaba21
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100623T071300Z
+DTEND:20100623T071300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c21b4117e85c92815eaba21
+URL:https://foursquare.com/svathis/checkin/4c21b4117e85c92815eaba21
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c20f109266dc9b6eb2bcfdf
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100622T172100Z
+DTEND:20100622T172100Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4c20f109266dc9b6eb2bcfdf
+URL:https://foursquare.com/svathis/checkin/4c20f109266dc9b6eb2bcfdf
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c206a80eac020a1238b4cc2
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100622T074700Z
+DTEND:20100622T074700Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c206a80eac020a1238b4cc2
+URL:https://foursquare.com/svathis/checkin/4c206a80eac020a1238b4cc2
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1f1724920076b08e4cc4e9
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100621T073900Z
+DTEND:20100621T073900Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c1f1724920076b08e4cc4e9
+URL:https://foursquare.com/svathis/checkin/4c1f1724920076b08e4cc4e9
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1d305eb306c928062665b7
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100619T210200Z
+DTEND:20100619T210200Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c1d305eb306c928062665b7
+URL:https://foursquare.com/svathis/checkin/4c1d305eb306c928062665b7
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1d0ed9fcf8c9b6ce16ab0b
+SUMMARY:Αίθριο Παλαιού Νοσοκομείου
+DTSTAMP:20190829T121100Z
+DTSTART:20100619T183900Z
+DTEND:20100619T183900Z
+DESCRIPTION:Αίθριο Παλαιού Νοσοκομείου\nΠάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c1d0ed9fcf8c9b6ce16ab0b
+URL:https://foursquare.com/svathis/checkin/4c1d0ed9fcf8c9b6ce16ab0b
+GEO:38.24431464904887;21.74022674560547
+LOCATION:Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1cd6c2b9f876b0ae7d7c46
+SUMMARY:Mirasol
+DTSTAMP:20190829T121100Z
+DTSTART:20100619T144000Z
+DTEND:20100619T144000Z
+DESCRIPTION:Mirasol\nΠαραλία Ροδινης\, Πάτρα\, Αχαΐα\nhttps://foursquare.co
+	m/svathis/checkin/4c1cd6c2b9f876b0ae7d7c46
+URL:https://foursquare.com/svathis/checkin/4c1cd6c2b9f876b0ae7d7c46
+GEO:38.3257728095531;21.891327451520645
+LOCATION:Παραλία Ροδινης, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1bf113b4e62d7fc23eda93
+SUMMARY:LiBiDO
+DTSTAMP:20190829T121100Z
+DTSTART:20100618T222000Z
+DTEND:20100618T222000Z
+DESCRIPTION:LiBiDO\nVeso Mare (Ακτή Δυμαίων)\, 262 22 Πάτρα\, Αχαΐα\nhttps:
+	//foursquare.com/svathis/checkin/4c1bf113b4e62d7fc23eda93
+URL:https://foursquare.com/svathis/checkin/4c1bf113b4e62d7fc23eda93
+GEO:38.23730961299286;21.725866569179313
+LOCATION:Veso Mare (Ακτή Δυμαίων), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1bbdcaeac020a15b5d45c2
+SUMMARY:Αίθριο Παλαιού Νοσοκομείου
+DTSTAMP:20190829T121100Z
+DTSTART:20100618T184100Z
+DTEND:20100618T184100Z
+DESCRIPTION:Αίθριο Παλαιού Νοσοκομείου\nΠάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c1bbdcaeac020a15b5d45c2
+URL:https://foursquare.com/svathis/checkin/4c1bbdcaeac020a15b5d45c2
+GEO:38.24431464904887;21.74022674560547
+LOCATION:Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1bbd4eeac020a1785c45c2
+SUMMARY:Αίθριο Παλαιού Νοσοκομείου
+DTSTAMP:20190829T121100Z
+DTSTART:20100618T183900Z
+DTEND:20100618T183900Z
+DESCRIPTION:Αίθριο Παλαιού Νοσοκομείου\nΠάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c1bbd4eeac020a1785c45c2
+URL:https://foursquare.com/svathis/checkin/4c1bbd4eeac020a1785c45c2
+GEO:38.24431464904887;21.74022674560547
+LOCATION:Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1a6e12eac020a1184243c2
+SUMMARY:Αίθριο Παλαιού Νοσοκομείου
+DTSTAMP:20190829T121100Z
+DTSTART:20100617T184800Z
+DTEND:20100617T184800Z
+DESCRIPTION:Αίθριο Παλαιού Νοσοκομείου\nΠάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c1a6e12eac020a1184243c2
+URL:https://foursquare.com/svathis/checkin/4c1a6e12eac020a1184243c2
+GEO:38.24431464904887;21.74022674560547
+LOCATION:Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c17d9254ff90f47ff880d49
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100615T194800Z
+DTEND:20100615T194800Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c17d9254ff90f47ff880d49
+URL:https://foursquare.com/svathis/checkin/4c17d9254ff90f47ff880d49
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c150171a9c220a1a95b589d
+SUMMARY:Mayari
+DTSTAMP:20190829T121100Z
+DTSTART:20100613T160400Z
+DTEND:20100613T160400Z
+DESCRIPTION:Mayari\n\nhttps://foursquare.com/svathis/checkin/4c150171a9c220
+	a1a95b589d
+URL:https://foursquare.com/svathis/checkin/4c150171a9c220a1a95b589d
+GEO:38.1553169903514;21.552057260283558
+END:VEVENT
+BEGIN:VEVENT
+UID:4c14cad6a1010f47e6ee4c18
+SUMMARY:Arkoudi Beach (Παραλία Αρκουδίου)
+DTSTAMP:20190829T121100Z
+DTSTART:20100613T121100Z
+DTEND:20100613T121100Z
+DESCRIPTION:Arkoudi Beach (Παραλία Αρκουδίου)\nΠαραλία Αρκουδίου\, Αρκούδι\
+	, Ηλεία\nhttps://foursquare.com/svathis/checkin/4c14cad6a1010f47e6ee4c18
+URL:https://foursquare.com/svathis/checkin/4c14cad6a1010f47e6ee4c18
+GEO:37.84710953791457;21.10868289718456
+LOCATION:Παραλία Αρκουδίου, Αρκούδι, Ηλεία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c14119aa5eb76b0e426c1b7
+SUMMARY:R.Q.D. Paradise
+DTSTAMP:20190829T121100Z
+DTSTART:20100612T230000Z
+DTEND:20100612T230000Z
+DESCRIPTION:R.Q.D. Paradise\nΑρκούδι\, Ηλεία\nhttps://foursquare.com/svathi
+	s/checkin/4c14119aa5eb76b0e426c1b7
+URL:https://foursquare.com/svathis/checkin/4c14119aa5eb76b0e426c1b7
+GEO:37.84708667408559;21.108779000779464
+LOCATION:Αρκούδι, Ηλεία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c13fc6482a3c9b63483fcf8
+SUMMARY:R.Q.D. Paradise
+DTSTAMP:20190829T121100Z
+DTSTART:20100612T213000Z
+DTEND:20100612T213000Z
+DESCRIPTION:R.Q.D. Paradise\nΑρκούδι\, Ηλεία\nhttps://foursquare.com/svathi
+	s/checkin/4c13fc6482a3c9b63483fcf8
+URL:https://foursquare.com/svathis/checkin/4c13fc6482a3c9b63483fcf8
+GEO:37.84708667408559;21.108779000779464
+LOCATION:Αρκούδι, Ηλεία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c13f80aa9c220a117c4569d
+SUMMARY:R.Q.D. Paradise
+DTSTAMP:20190829T121100Z
+DTSTART:20100612T211100Z
+DTEND:20100612T211100Z
+DESCRIPTION:R.Q.D. Paradise\nΑρκούδι\, Ηλεία\nhttps://foursquare.com/svathi
+	s/checkin/4c13f80aa9c220a117c4569d
+URL:https://foursquare.com/svathis/checkin/4c13f80aa9c220a117c4569d
+GEO:37.84708667408559;21.108779000779464
+LOCATION:Αρκούδι, Ηλεία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c13e6b47f7f2d7f08f4df68
+SUMMARY:Εστιατόριο "Κλάρα"
+DTSTAMP:20190829T121100Z
+DTSTART:20100612T195700Z
+DTEND:20100612T195700Z
+DESCRIPTION:Εστιατόριο "Κλάρα"\nΜάχος\, Ηλείας\nhttps://foursquare.com/svat
+	his/checkin/4c13e6b47f7f2d7f08f4df68
+URL:https://foursquare.com/svathis/checkin/4c13e6b47f7f2d7f08f4df68
+GEO:37.8813371912899;21.194881639959576
+LOCATION:Μάχος, Ηλείας
+END:VEVENT
+BEGIN:VEVENT
+UID:4c13d82277cea5930093cf60
+SUMMARY:Εστιατόριο "Κλάρα"
+DTSTAMP:20190829T121100Z
+DTSTART:20100612T185500Z
+DTEND:20100612T185500Z
+DESCRIPTION:Εστιατόριο "Κλάρα"\nΜάχος\, Ηλείας\nhttps://foursquare.com/svat
+	his/checkin/4c13d82277cea5930093cf60
+URL:https://foursquare.com/svathis/checkin/4c13d82277cea5930093cf60
+GEO:37.8813371912899;21.194881639959576
+LOCATION:Μάχος, Ηλείας
+END:VEVENT
+BEGIN:VEVENT
+UID:4c138ca57f7f2d7fff30df68
+SUMMARY:Camping Melissa
+DTSTAMP:20190829T121100Z
+DTSTART:20100612T133300Z
+DTEND:20100612T133300Z
+DESCRIPTION:Camping Melissa\nΚάστρο Κυλλήνης\nhttps://foursquare.com/svathi
+	s/checkin/4c138ca57f7f2d7fff30df68
+URL:https://foursquare.com/svathis/checkin/4c138ca57f7f2d7fff30df68
+GEO:37.88593335740143;21.111233970071698
+LOCATION:Κάστρο Κυλλήνης
+END:VEVENT
+BEGIN:VEVENT
+UID:4c12c72ca5eb76b0e7d3beb7
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100611T233000Z
+DTEND:20100611T233000Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c12c72ca5eb76b0e7d3beb7
+URL:https://foursquare.com/svathis/checkin/4c12c72ca5eb76b0e7d3beb7
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c12b53ba1010f47455d4918
+SUMMARY:Estivo
+DTSTAMP:20190829T121100Z
+DTSTART:20100611T221400Z
+DTEND:20100611T221400Z
+DESCRIPTION:Estivo\nΑχαίας 13 (Καστελόκαμπος)\, 265 04 Ρίο\, Αχαΐα\nhttps:/
+	/foursquare.com/svathis/checkin/4c12b53ba1010f47455d4918
+URL:https://foursquare.com/svathis/checkin/4c12b53ba1010f47455d4918
+GEO:38.29338404613684;21.767972546087197
+LOCATION:Αχαίας 13 (Καστελόκαμπος), 265 04 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c12a1f9a5eb76b07e89beb7
+SUMMARY:Tam Toom
+DTSTAMP:20190829T121100Z
+DTSTART:20100611T205200Z
+DTEND:20100611T205200Z
+DESCRIPTION:Tam Toom\nΕλευθερίας (28ης Οκτωβρίου)\, Ρίο\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4c12a1f9a5eb76b07e89beb7
+URL:https://foursquare.com/svathis/checkin/4c12a1f9a5eb76b07e89beb7
+GEO:38.31241458548319;21.7989519116527
+LOCATION:Ελευθερίας (28ης Οκτωβρίου), Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0f43ad336220a11790cd77
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100609T073300Z
+DTEND:20100609T073300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c0f43ad336220a11790cd77
+URL:https://foursquare.com/svathis/checkin/4c0f43ad336220a11790cd77
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0eb2cbc6cf76b05d268151
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100608T211400Z
+DTEND:20100608T211400Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c0eb2cbc6cf76b05d268151
+URL:https://foursquare.com/svathis/checkin/4c0eb2cbc6cf76b05d268151
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0e79dd98102d7f18b6e306
+SUMMARY:Το ποδήλατο
+DTSTAMP:20190829T121100Z
+DTSTART:20100608T171100Z
+DTEND:20100608T171100Z
+DESCRIPTION:Το ποδήλατο\nΠαπαφλέσα (Ευμήλου)\, Πάτρα\, Αχαΐα\nhttps://fours
+	quare.com/svathis/checkin/4c0e79dd98102d7f18b6e306
+URL:https://foursquare.com/svathis/checkin/4c0e79dd98102d7f18b6e306
+GEO:38.24094409265185;21.727309226989746
+LOCATION:Παπαφλέσα (Ευμήλου), Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0d5bc6c700c9b65f49a2dd
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100607T205100Z
+DTEND:20100607T205100Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c0d5bc6c700c9b65f49a2dd
+URL:https://foursquare.com/svathis/checkin/4c0d5bc6c700c9b65f49a2dd
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0bbf0f6071a59314a5e132
+SUMMARY:Corinth Canal (Διώρυγα Κορίνθου)
+DTSTAMP:20190829T121100Z
+DTSTART:20100606T153000Z
+DTEND:20100606T153000Z
+DESCRIPTION:Corinth Canal (Διώρυγα Κορίνθου)\nΔιώρυγα (στον Ισθμό της Κορίν
+	θου)\, 203 00 Κορινθία\, Κορινθία\nhttps://foursquare.com/svathis/checkin/
+	4c0bbf0f6071a59314a5e132
+URL:https://foursquare.com/svathis/checkin/4c0bbf0f6071a59314a5e132
+GEO:37.927409222676985;22.994084358215332
+LOCATION:Διώρυγα (στον Ισθμό της Κορίνθου), 203 00 Κορινθία, Κορινθία
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0bba19ffb8c9b6a99e6d61
+SUMMARY:Flocafé
+DTSTAMP:20190829T121100Z
+DTSTART:20100606T150900Z
+DTEND:20100606T150900Z
+DESCRIPTION:Flocafé\n40.5 χλμ ΕΟ Αθηνών - Κορίνθου (ΣΕΑ Μεγάρων)\, 191 00 Μ
+	έγαρα\, Αττική\nhttps://foursquare.com/svathis/checkin/4c0bba19ffb8c9b6a99
+	e6d61
+URL:https://foursquare.com/svathis/checkin/4c0bba19ffb8c9b6a99e6d61
+GEO:37.99615516188851;23.366297108088563
+LOCATION:40.5 χλμ ΕΟ Αθηνών - Κορίνθου (ΣΕΑ Μεγάρων), 191 00 Μέγαρα, Αττική
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0812dfbbc676b0acf745d5
+SUMMARY:Hall
+DTSTAMP:20190829T121100Z
+DTSTART:20100603T203800Z
+DTEND:20100603T203800Z
+DESCRIPTION:Hall\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4c0812dfbbc676b0acf745d5
+URL:https://foursquare.com/svathis/checkin/4c0812dfbbc676b0acf745d5
+GEO:38.26177373579616;21.739148497581482
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c07f0f6bbc676b0babf45d5
+SUMMARY:ORO Antico
+DTSTAMP:20190829T121100Z
+DTSTART:20100603T181400Z
+DTEND:20100603T181400Z
+DESCRIPTION:ORO Antico\nΑγίου Νικολάου 21 (Ρήγα Φεραίου)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4c07f0f6bbc676b0babf45d5
+URL:https://foursquare.com/svathis/checkin/4c07f0f6bbc676b0babf45d5
+GEO:38.248304343199784;21.735768914222717
+LOCATION:Αγίου Νικολάου 21 (Ρήγα Φεραίου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c07d503221620a1ed66f775
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100603T161400Z
+DTEND:20100603T161400Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4c07d503221620a1ed66f775
+URL:https://foursquare.com/svathis/checkin/4c07d503221620a1ed66f775
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0768a7a4de2f5effbeb7be
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100603T083200Z
+DTEND:20100603T083200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c0768a7a4de2f5effbeb7be
+URL:https://foursquare.com/svathis/checkin/4c0768a7a4de2f5effbeb7be
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c06ba8da4de2f5ee8bdb1be
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100602T200900Z
+DTEND:20100602T200900Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c06ba8da4de2f5ee8bdb1be
+URL:https://foursquare.com/svathis/checkin/4c06ba8da4de2f5ee8bdb1be
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05fe4aa4de2f5e1747abbe
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100602T064600Z
+DTEND:20100602T064600Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c05fe4aa4de2f5e1747abbe
+URL:https://foursquare.com/svathis/checkin/4c05fe4aa4de2f5e1747abbe
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c04a70fa4de2f5e14ee9fbe
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100601T062200Z
+DTEND:20100601T062200Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c04a70fa4de2f5e14ee9fbe
+URL:https://foursquare.com/svathis/checkin/4c04a70fa4de2f5e14ee9fbe
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c03bae1a4de2f5e74ed97be
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100531T133400Z
+DTEND:20100531T133400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4c03bae1a4de2f5e74ed97be
+URL:https://foursquare.com/svathis/checkin/4c03bae1a4de2f5e74ed97be
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c01a9d6a4de2f5e667b87be
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100529T235700Z
+DTEND:20100529T235700Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4c01a9d6a4de2f5e667b87be
+URL:https://foursquare.com/svathis/checkin/4c01a9d6a4de2f5e667b87be
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c019f30a4de2f5e230e87be
+SUMMARY:Hall
+DTSTAMP:20190829T121100Z
+DTSTART:20100529T231100Z
+DTEND:20100529T231100Z
+DESCRIPTION:Hall\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4c019f30a4de2f5e230e87be
+URL:https://foursquare.com/svathis/checkin/4c019f30a4de2f5e230e87be
+GEO:38.26177373579616;21.739148497581482
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c019724a4de2f5ea3b986be
+SUMMARY:Terraza (Ταράτσα)
+DTSTAMP:20190829T121100Z
+DTSTART:20100529T223700Z
+DTEND:20100529T223700Z
+DESCRIPTION:Terraza (Ταράτσα)\nΡήγα Φεραίου 96 (Πάροδος Δρακοπούλου)\, 262 
+	21 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4c019724a4de2f5ea
+	3b986be
+URL:https://foursquare.com/svathis/checkin/4c019724a4de2f5ea3b986be
+GEO:38.24767241046452;21.734400987625122
+LOCATION:Ρήγα Φεραίου 96 (Πάροδος Δρακοπούλου), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c01144fa4de2f5e8c5181be
+SUMMARY:Kalogria beach (Παραλία Καλογριάς)
+DTSTAMP:20190829T121100Z
+DTSTART:20100529T131900Z
+DTEND:20100529T131900Z
+DESCRIPTION:Kalogria beach (Παραλία Καλογριάς)\nΚαλογριάς\, 270 52 Αχαΐα\, 
+	Αχαΐα\nhttps://foursquare.com/svathis/checkin/4c01144fa4de2f5e8c5181be
+URL:https://foursquare.com/svathis/checkin/4c01144fa4de2f5e8c5181be
+GEO:38.15935295703799;21.366743339066897
+LOCATION:Καλογριάς, 270 52 Αχαΐα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c003988a4de2f5e0d647abe
+SUMMARY:Πολυχώρος Πολιτεία
+DTSTAMP:20190829T121100Z
+DTSTART:20100528T214500Z
+DTEND:20100528T214500Z
+DESCRIPTION:Πολυχώρος Πολιτεία\nΑκτή Δυμαίων 84\, Πάτρα\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4c003988a4de2f5e0d647abe
+URL:https://foursquare.com/svathis/checkin/4c003988a4de2f5e0d647abe
+GEO:38.22150277852777;21.721082156308963
+LOCATION:Ακτή Δυμαίων 84, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4c000d1da4de2f5e91a378be
+SUMMARY:Μύθος
+DTSTAMP:20190829T121100Z
+DTSTART:20100528T183600Z
+DTEND:20100528T183600Z
+DESCRIPTION:Μύθος\nΤριών Ναυάρχων 15\, Πάτρα\, Αχαΐα\nhttps://foursquare.co
+	m/svathis/checkin/4c000d1da4de2f5e91a378be
+URL:https://foursquare.com/svathis/checkin/4c000d1da4de2f5e91a378be
+GEO:38.243196303911475;21.72931651922953
+LOCATION:Τριών Ναυάρχων 15, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfed87ca4de2f5e182f6ebe
+SUMMARY:Café Del Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100527T203900Z
+DTEND:20100527T203900Z
+DESCRIPTION:Café Del Bar\nΤριών Ναυάρχων 41 (Κανακάρη)\, 262 22 Πάτρα\, Αχα
+	ΐα\nhttps://foursquare.com/svathis/checkin/4bfed87ca4de2f5e182f6ebe
+URL:https://foursquare.com/svathis/checkin/4bfed87ca4de2f5e182f6ebe
+GEO:38.242186509030454;21.731030111670133
+LOCATION:Τριών Ναυάρχων 41 (Κανακάρη), 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfe9268a4de2f5eff7e6bbe
+SUMMARY:Δωδώνη
+DTSTAMP:20190829T121100Z
+DTSTART:20100527T154000Z
+DTEND:20100527T154000Z
+DESCRIPTION:Δωδώνη\nΗρώων Πολυτεχνείου 58\, 264 41 Πάτρα\, Αχαΐα\nhttps://f
+	oursquare.com/svathis/checkin/4bfe9268a4de2f5eff7e6bbe
+URL:https://foursquare.com/svathis/checkin/4bfe9268a4de2f5eff7e6bbe
+GEO:38.26063220173212;21.738663795185282
+LOCATION:Ηρώων Πολυτεχνείου 58, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfe2b84a4de2f5eaa5868be
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100527T082100Z
+DTEND:20100527T082100Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4bfe2b84a4de2f5eaa5868be
+URL:https://foursquare.com/svathis/checkin/4bfe2b84a4de2f5eaa5868be
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfb7ff2a4de2f5efaaf53be
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100525T074400Z
+DTEND:20100525T074400Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4bfb7ff2a4de2f5efaaf53be
+URL:https://foursquare.com/svathis/checkin/4bfb7ff2a4de2f5efaaf53be
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfaa22aa4de2f5e0a2e4dbe
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100524T155800Z
+DTEND:20100524T155800Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4bfaa22aa4de2f5e0a2e4dbe
+URL:https://foursquare.com/svathis/checkin/4bfaa22aa4de2f5e0a2e4dbe
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf96a14a4de2f5ea07244be
+SUMMARY:Hλιοστάσιο
+DTSTAMP:20190829T121100Z
+DTSTART:20100523T174700Z
+DTEND:20100523T174700Z
+DESCRIPTION:Hλιοστάσιο\nΑκτή Μιαούλη 9\, 211 00 Ναύπλιο\, Αργολίδα\nhttps:/
+	/foursquare.com/svathis/checkin/4bf96a14a4de2f5ea07244be
+URL:https://foursquare.com/svathis/checkin/4bf96a14a4de2f5ea07244be
+GEO:37.56594103698292;22.793459194942567
+LOCATION:Ακτή Μιαούλη 9, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf8055ea4de2f5e13b339be
+SUMMARY:Το Κεντρικόν
+DTSTAMP:20190829T121100Z
+DTSTART:20100522T162500Z
+DTEND:20100522T162500Z
+DESCRIPTION:Το Κεντρικόν\nΠλατεία Συντάγματος\, 211 00 Ναύπλιο\, Αργολίδα\n
+	https://foursquare.com/svathis/checkin/4bf8055ea4de2f5e13b339be
+URL:https://foursquare.com/svathis/checkin/4bf8055ea4de2f5e13b339be
+GEO:37.56611770758944;22.796611215987973
+LOCATION:Πλατεία Συντάγματος, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf3972da4de2f5e149217be
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100519T074500Z
+DTEND:20100519T074500Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4bf3972da4de2f5e149217be
+URL:https://foursquare.com/svathis/checkin/4bf3972da4de2f5e149217be
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bee5784a4de2f5ef04ff3bd
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100515T081200Z
+DTEND:20100515T081200Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4bee5784a4de2f5ef04ff3bd
+URL:https://foursquare.com/svathis/checkin/4bee5784a4de2f5ef04ff3bd
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bec38f3a4de2f5e68b9e2bd
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20100513T173700Z
+DTEND:20100513T173700Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4bec38f3a4de2f5e68b
+	9e2bd
+URL:https://foursquare.com/svathis/checkin/4bec38f3a4de2f5e68b9e2bd
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4beb05a1a4de2f5ea069dabd
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100512T194600Z
+DTEND:20100512T194600Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4beb05a1a4de2f5ea069dabd
+URL:https://foursquare.com/svathis/checkin/4beb05a1a4de2f5ea069dabd
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4be6052ea4de2f5ed666babd
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100509T004300Z
+DTEND:20100509T004300Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4be6052ea4de2f5ed666babd
+URL:https://foursquare.com/svathis/checkin/4be6052ea4de2f5ed666babd
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4be5dfd6a4de2f5e4920b9bd
+SUMMARY:Hall
+DTSTAMP:20190829T121100Z
+DTSTART:20100508T220400Z
+DTEND:20100508T220400Z
+DESCRIPTION:Hall\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4be5dfd6a4de2f5e4920b9bd
+URL:https://foursquare.com/svathis/checkin/4be5dfd6a4de2f5e4920b9bd
+GEO:38.26177373579616;21.739148497581482
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4be5d572a4de2f5e59c4b8bd
+SUMMARY:Κήπος
+DTSTAMP:20190829T121100Z
+DTSTART:20100508T211900Z
+DTEND:20100508T211900Z
+DESCRIPTION:Κήπος\nΓερμανού 10\, 262 25 Πάτρα\, Αχαΐα\nhttps://foursquare.c
+	om/svathis/checkin/4be5d572a4de2f5e59c4b8bd
+URL:https://foursquare.com/svathis/checkin/4be5d572a4de2f5e59c4b8bd
+GEO:38.24278060665214;21.737189824066512
+LOCATION:Γερμανού 10, 262 25 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4be5c259a4de2f5ee416b8bd
+SUMMARY:Don Camillo e Peppone
+DTSTAMP:20190829T121100Z
+DTSTART:20100508T195800Z
+DTEND:20100508T195800Z
+DESCRIPTION:Don Camillo e Peppone\nGermanou 78\, 262 22 Πάτρα\, Αχαΐα\nhttp
+	s://foursquare.com/svathis/checkin/4be5c259a4de2f5ee416b8bd
+URL:https://foursquare.com/svathis/checkin/4be5c259a4de2f5ee416b8bd
+GEO:38.24244149341125;21.73886666126052
+LOCATION:Germanou 78, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4be5129fa4de2f5ea89ab3bd
+SUMMARY:National and Kapodistrian University of Athens (Εθνικό και Καποδιστ
+	ριακό Πανεπιστήμιο Αθηνών)
+DTSTAMP:20190829T121100Z
+DTSTART:20100508T072800Z
+DTEND:20100508T072800Z
+DESCRIPTION:National and Kapodistrian University of Athens (Εθνικό και Καπο
+	διστριακό Πανεπιστήμιο Αθηνών)\nΠανεπιστημιούπολη\, 157 84 Panepistimioupo
+	li\, Zografou\nhttps://foursquare.com/svathis/checkin/4be5129fa4de2f5ea89a
+	b3bd
+URL:https://foursquare.com/svathis/checkin/4be5129fa4de2f5ea89ab3bd
+GEO:37.96915018993523;23.773506329548205
+LOCATION:Πανεπιστημιούπολη, 157 84 Panepistimioupoli, Zografou
+END:VEVENT
+BEGIN:VEVENT
+UID:4be19859a4de2f5e57549bbd
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100505T161000Z
+DTEND:20100505T161000Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4be19859a4de2f5e57549bbd
+URL:https://foursquare.com/svathis/checkin/4be19859a4de2f5e57549bbd
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bdd3845a4de2f5ec12e85bd
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20100502T083100Z
+DTEND:20100502T083100Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4bdd3845a4de2f5ec12e85bd
+URL:https://foursquare.com/svathis/checkin/4bdd3845a4de2f5ec12e85bd
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd8945ea4de2f5eaf0067bd
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100428T200200Z
+DTEND:20100428T200200Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bd8945ea4de2f5eaf0067bd
+URL:https://foursquare.com/svathis/checkin/4bd8945ea4de2f5eaf0067bd
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd6f5c4a4de2f5ef60d5dbd
+SUMMARY:University Sports Centre (Πανεπιστημιακό Γυμναστήριο Πατρών)
+DTSTAMP:20190829T121100Z
+DTSTART:20100427T143300Z
+DTEND:20100427T143300Z
+DESCRIPTION:University Sports Centre (Πανεπιστημιακό Γυμναστήριο Πατρών)\nΓ
+	εωργίου Παπανδρέου\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare.com/svathis/ch
+	eckin/4bd6f5c4a4de2f5ef60d5dbd
+URL:https://foursquare.com/svathis/checkin/4bd6f5c4a4de2f5ef60d5dbd
+GEO:38.28140393313792;21.788187940924946
+LOCATION:Γεωργίου Παπανδρέου, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd2cf55a4de2f5e348845bd
+SUMMARY:Bara Rara
+DTSTAMP:20190829T121100Z
+DTSTART:20100424T110000Z
+DTEND:20100424T110000Z
+DESCRIPTION:Bara Rara\nΠλατεία Υψηλών Αλωνιών 24\, 262 24 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4bd2cf55a4de2f5e348845bd
+URL:https://foursquare.com/svathis/checkin/4bd2cf55a4de2f5e348845bd
+GEO:38.24080926714556;21.733789443969727
+LOCATION:Πλατεία Υψηλών Αλωνιών 24, 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd20e3ca4de2f5e50fc40bd
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100423T211600Z
+DTEND:20100423T211600Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bd20e3ca4de2f5e50fc40bd
+URL:https://foursquare.com/svathis/checkin/4bd20e3ca4de2f5e50fc40bd
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd1e9eea4de2f5e17f73fbd
+SUMMARY:Πολυχώρος Πολιτεία
+DTSTAMP:20190829T121100Z
+DTSTART:20100423T184100Z
+DTEND:20100423T184100Z
+DESCRIPTION:Πολυχώρος Πολιτεία\nΑκτή Δυμαίων 84\, Πάτρα\, Αχαΐα\nhttps://fo
+	ursquare.com/svathis/checkin/4bd1e9eea4de2f5e17f73fbd
+URL:https://foursquare.com/svathis/checkin/4bd1e9eea4de2f5e17f73fbd
+GEO:38.22150277852777;21.721082156308963
+LOCATION:Ακτή Δυμαίων 84, Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd1b6b2a4de2f5ef05c3ebd
+SUMMARY:Dose
+DTSTAMP:20190829T121100Z
+DTSTART:20100423T150300Z
+DTEND:20100423T150300Z
+DESCRIPTION:Dose\nΗρώων Πολυτεχνείου 50\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4bd1b6b2a4de2f5ef05c3ebd
+URL:https://foursquare.com/svathis/checkin/4bd1b6b2a4de2f5ef05c3ebd
+GEO:38.259841624926175;21.738547337656257
+LOCATION:Ηρώων Πολυτεχνείου 50, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd0cac6a4de2f5e3e6239bd
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100422T221600Z
+DTEND:20100422T221600Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bd0cac6a4de2f5e3e6239bd
+URL:https://foursquare.com/svathis/checkin/4bd0cac6a4de2f5e3e6239bd
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd0b4eca4de2f5edfca38bd
+SUMMARY:Hall
+DTSTAMP:20190829T121100Z
+DTSTART:20100422T204300Z
+DTEND:20100422T204300Z
+DESCRIPTION:Hall\nΗρώων Πολυτεχνείου 60\, 264 41 Πάτρα\, Αχαΐα\nhttps://fou
+	rsquare.com/svathis/checkin/4bd0b4eca4de2f5edfca38bd
+URL:https://foursquare.com/svathis/checkin/4bd0b4eca4de2f5edfca38bd
+GEO:38.26177373579616;21.739148497581482
+LOCATION:Ηρώων Πολυτεχνείου 60, 264 41 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd060cea4de2f5e567736bd
+SUMMARY:University Sports Centre (Πανεπιστημιακό Γυμναστήριο Πατρών)
+DTSTAMP:20190829T121100Z
+DTSTART:20100422T144400Z
+DTEND:20100422T144400Z
+DESCRIPTION:University Sports Centre (Πανεπιστημιακό Γυμναστήριο Πατρών)\nΓ
+	εωργίου Παπανδρέου\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare.com/svathis/ch
+	eckin/4bd060cea4de2f5e567736bd
+URL:https://foursquare.com/svathis/checkin/4bd060cea4de2f5e567736bd
+GEO:38.28140393313792;21.788187940924946
+LOCATION:Γεωργίου Παπανδρέου, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bce2152a4de2f5ebd5a2abd
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100420T214900Z
+DTEND:20100420T214900Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bce2152a4de2f5ebd5a2abd
+URL:https://foursquare.com/svathis/checkin/4bce2152a4de2f5ebd5a2abd
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bce0069a4de2f5e119029bd
+SUMMARY:Ποικίλη Στοά
+DTSTAMP:20190829T121100Z
+DTSTART:20100420T192800Z
+DTEND:20100420T192800Z
+DESCRIPTION:Ποικίλη Στοά\nΡήγα Φεραίου 129 (Παντανάσσης)\, 262 21 Πάτρα\, Α
+	χαΐα\nhttps://foursquare.com/svathis/checkin/4bce0069a4de2f5e119029bd
+URL:https://foursquare.com/svathis/checkin/4bce0069a4de2f5e119029bd
+GEO:38.2461117834284;21.732912089647186
+LOCATION:Ρήγα Φεραίου 129 (Παντανάσσης), 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcdbf38a4de2f5e73d327bd
+SUMMARY:University Sports Centre (Πανεπιστημιακό Γυμναστήριο Πατρών)
+DTSTAMP:20190829T121100Z
+DTSTART:20100420T145000Z
+DTEND:20100420T145000Z
+DESCRIPTION:University Sports Centre (Πανεπιστημιακό Γυμναστήριο Πατρών)\nΓ
+	εωργίου Παπανδρέου\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare.com/svathis/ch
+	eckin/4bcdbf38a4de2f5e73d327bd
+URL:https://foursquare.com/svathis/checkin/4bcdbf38a4de2f5e73d327bd
+GEO:38.28140393313792;21.788187940924946
+LOCATION:Γεωργίου Παπανδρέου, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bca353aa4de2f5e75d015bd
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100417T222400Z
+DTEND:20100417T222400Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bca353aa4de2f5e75d015bd
+URL:https://foursquare.com/svathis/checkin/4bca353aa4de2f5e75d015bd
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc0ec5da4de2f5ec9bfe5bc
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100410T212300Z
+DTEND:20100410T212300Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bc0ec5da4de2f5ec9bfe5bc
+URL:https://foursquare.com/svathis/checkin/4bc0ec5da4de2f5ec9bfe5bc
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc0d444a4de2f5eed15e5bc
+SUMMARY:Orient Express
+DTSTAMP:20190829T121100Z
+DTSTART:20100410T194000Z
+DTEND:20100410T194000Z
+DESCRIPTION:Orient Express\nΠλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού)\, 262 24
+	 Πάτρα\, Αχαΐα\nhttps://foursquare.com/svathis/checkin/4bc0d444a4de2f5eed1
+	5e5bc
+URL:https://foursquare.com/svathis/checkin/4bc0d444a4de2f5eed15e5bc
+GEO:38.240529;21.734806
+LOCATION:Πλατεία Υψηλών Αλωνίων 20 (Παναχαϊκού), 262 24 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bbceb4ea4de2f5e4703d2bc
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100407T203000Z
+DTEND:20100407T203000Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4bbceb4ea4de2f5e4703d2bc
+URL:https://foursquare.com/svathis/checkin/4bbceb4ea4de2f5e4703d2bc
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb99eaba4de2f5e17d8c3bc
+SUMMARY:Το Κεντρικόν
+DTSTAMP:20190829T121100Z
+DTSTART:20100405T082600Z
+DTEND:20100405T082600Z
+DESCRIPTION:Το Κεντρικόν\nΠλατεία Συντάγματος\, 211 00 Ναύπλιο\, Αργολίδα\n
+	https://foursquare.com/svathis/checkin/4bb99eaba4de2f5e17d8c3bc
+URL:https://foursquare.com/svathis/checkin/4bb99eaba4de2f5e17d8c3bc
+GEO:37.56611770758944;22.796611215987973
+LOCATION:Πλατεία Συντάγματος, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb71110a4de2f5e98f6b9bc
+SUMMARY:Hλιοστάσιο
+DTSTAMP:20190829T121100Z
+DTSTART:20100403T095700Z
+DTEND:20100403T095700Z
+DESCRIPTION:Hλιοστάσιο\nΑκτή Μιαούλη 9\, 211 00 Ναύπλιο\, Αργολίδα\nhttps:/
+	/foursquare.com/svathis/checkin/4bb71110a4de2f5e98f6b9bc
+URL:https://foursquare.com/svathis/checkin/4bb71110a4de2f5e98f6b9bc
+GEO:37.56594103698292;22.793459194942567
+LOCATION:Ακτή Μιαούλη 9, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb606a0a4de2f5e2db8b4bc
+SUMMARY:Hλιοστάσιο
+DTSTAMP:20190829T121100Z
+DTSTART:20100402T150000Z
+DTEND:20100402T150000Z
+DESCRIPTION:Hλιοστάσιο\nΑκτή Μιαούλη 9\, 211 00 Ναύπλιο\, Αργολίδα\nhttps:/
+	/foursquare.com/svathis/checkin/4bb606a0a4de2f5e2db8b4bc
+URL:https://foursquare.com/svathis/checkin/4bb606a0a4de2f5e2db8b4bc
+GEO:37.56594103698292;22.793459194942567
+LOCATION:Ακτή Μιαούλη 9, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4baea067a4de2f5e6f5596bc
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100328T001800Z
+DTEND:20100328T001800Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4baea067a4de2f5e6f5596bc
+URL:https://foursquare.com/svathis/checkin/4baea067a4de2f5e6f5596bc
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bae8f40a4de2f5eabe695bc
+SUMMARY:Τρελλή Ροδιά
+DTSTAMP:20190829T121100Z
+DTSTART:20100327T230500Z
+DTEND:20100327T230500Z
+DESCRIPTION:Τρελλή Ροδιά\nΓεωργίου Καραϊσκάκη 156\, 262 21 Πάτρα\, Αχαΐα\nh
+	ttps://foursquare.com/svathis/checkin/4bae8f40a4de2f5eabe695bc
+URL:https://foursquare.com/svathis/checkin/4bae8f40a4de2f5eabe695bc
+GEO:38.243766066121516;21.735379874099724
+LOCATION:Γεωργίου Καραϊσκάκη 156, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bade1c3a4de2f5eb06c92bc
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100327T104500Z
+DTEND:20100327T104500Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4bade1c3a4de2f5eb06c92bc
+URL:https://foursquare.com/svathis/checkin/4bade1c3a4de2f5eb06c92bc
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4bab781ca4de2f5e1a7787bc
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100325T145000Z
+DTEND:20100325T145000Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4bab781ca4de2f5e1a7787bc
+URL:https://foursquare.com/svathis/checkin/4bab781ca4de2f5e1a7787bc
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4baa81b0a4de2f5e11be83bc
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100324T211800Z
+DTEND:20100324T211800Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4baa81b0a4de2f5e11be83bc
+URL:https://foursquare.com/svathis/checkin/4baa81b0a4de2f5e11be83bc
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba5d603a4de2f5e12fe71bc
+SUMMARY:Το Κεντρικόν
+DTSTAMP:20190829T121100Z
+DTSTART:20100321T081700Z
+DTEND:20100321T081700Z
+DESCRIPTION:Το Κεντρικόν\nΠλατεία Συντάγματος\, 211 00 Ναύπλιο\, Αργολίδα\n
+	https://foursquare.com/svathis/checkin/4ba5d603a4de2f5e12fe71bc
+URL:https://foursquare.com/svathis/checkin/4ba5d603a4de2f5e12fe71bc
+GEO:37.56611770758944;22.796611215987973
+LOCATION:Πλατεία Συντάγματος, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba4905da4de2f5ecc646cbc
+SUMMARY:Το Κεντρικόν
+DTSTAMP:20190829T121100Z
+DTSTART:20100320T090700Z
+DTEND:20100320T090700Z
+DESCRIPTION:Το Κεντρικόν\nΠλατεία Συντάγματος\, 211 00 Ναύπλιο\, Αργολίδα\n
+	https://foursquare.com/svathis/checkin/4ba4905da4de2f5ecc646cbc
+URL:https://foursquare.com/svathis/checkin/4ba4905da4de2f5ecc646cbc
+GEO:37.56611770758944;22.796611215987973
+LOCATION:Πλατεία Συντάγματος, 211 00 Ναύπλιο, Αργολίδα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba27bd6a4de2f5e887863bc
+SUMMARY:Συνεδριακό Κέντρο Πανεπιστημίου Πατρών
+DTSTAMP:20190829T121100Z
+DTSTART:20100318T191500Z
+DTEND:20100318T191500Z
+DESCRIPTION:Συνεδριακό Κέντρο Πανεπιστημίου Πατρών\nΡίο\, Πάτρα\nhttps://fo
+	ursquare.com/svathis/checkin/4ba27bd6a4de2f5e887863bc
+URL:https://foursquare.com/svathis/checkin/4ba27bd6a4de2f5e887863bc
+GEO:38.29031021489598;21.78621100915753
+LOCATION:Ρίο, Πάτρα
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba27b87a4de2f5e0b7763bc
+SUMMARY:Συνεδριακό Κέντρο Πανεπιστημίου Πατρών
+DTSTAMP:20190829T121100Z
+DTSTART:20100318T191400Z
+DTEND:20100318T191400Z
+DESCRIPTION:Συνεδριακό Κέντρο Πανεπιστημίου Πατρών\nΡίο\, Πάτρα\nhttps://fo
+	ursquare.com/svathis/checkin/4ba27b87a4de2f5e0b7763bc
+URL:https://foursquare.com/svathis/checkin/4ba27b87a4de2f5e0b7763bc
+GEO:38.29031021489598;21.78621100915753
+LOCATION:Ρίο, Πάτρα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9fafefa4de2f5e772f58bc
+SUMMARY:Συνεδριακό Κέντρο Πανεπιστημίου Πατρών
+DTSTAMP:20190829T121100Z
+DTSTART:20100316T162100Z
+DTEND:20100316T162100Z
+DESCRIPTION:Συνεδριακό Κέντρο Πανεπιστημίου Πατρών\nΡίο\, Πάτρα\nhttps://fo
+	ursquare.com/svathis/checkin/4b9fafefa4de2f5e772f58bc
+URL:https://foursquare.com/svathis/checkin/4b9fafefa4de2f5e772f58bc
+GEO:38.29031021489598;21.78621100915753
+LOCATION:Ρίο, Πάτρα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9cf37fa4de2f5e962b4ebc
+SUMMARY:Ευοί Ευάν
+DTSTAMP:20190829T121100Z
+DTSTART:20100314T143200Z
+DTEND:20100314T143200Z
+DESCRIPTION:Ευοί Ευάν\nΣώμερσετ 61\, 265 00 Ρίο\, Αχαΐα\nhttps://foursquare
+	.com/svathis/checkin/4b9cf37fa4de2f5e962b4ebc
+URL:https://foursquare.com/svathis/checkin/4b9cf37fa4de2f5e962b4ebc
+GEO:38.30200696111319;21.780953407287598
+LOCATION:Σώμερσετ 61, 265 00 Ρίο, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9ca990a4de2f5e1fa64dbc
+SUMMARY:Si Doux
+DTSTAMP:20190829T121100Z
+DTSTART:20100314T091700Z
+DTEND:20100314T091700Z
+DESCRIPTION:Si Doux\nΠατρέως 13-15\, 262 21 Πάτρα\, Αχαΐα\nhttps://foursqua
+	re.com/svathis/checkin/4b9ca990a4de2f5e1fa64dbc
+URL:https://foursquare.com/svathis/checkin/4b9ca990a4de2f5e1fa64dbc
+GEO:38.246521468918885;21.733115401965392
+LOCATION:Πατρέως 13-15, 262 21 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b92d263a4de2f5e0e422ebc
+SUMMARY:Don Camillo e Peppone
+DTSTAMP:20190829T121100Z
+DTSTART:20100306T220800Z
+DTEND:20100306T220800Z
+DESCRIPTION:Don Camillo e Peppone\nGermanou 78\, 262 22 Πάτρα\, Αχαΐα\nhttp
+	s://foursquare.com/svathis/checkin/4b92d263a4de2f5e0e422ebc
+URL:https://foursquare.com/svathis/checkin/4b92d263a4de2f5e0e422ebc
+GEO:38.24244149341125;21.73886666126052
+LOCATION:Germanou 78, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b92d16ca4de2f5eca3d2ebc
+SUMMARY:Don Camillo e Peppone
+DTSTAMP:20190829T121100Z
+DTSTART:20100306T220400Z
+DTEND:20100306T220400Z
+DESCRIPTION:Don Camillo e Peppone\nGermanou 78\, 262 22 Πάτρα\, Αχαΐα\nhttp
+	s://foursquare.com/svathis/checkin/4b92d16ca4de2f5eca3d2ebc
+URL:https://foursquare.com/svathis/checkin/4b92d16ca4de2f5eca3d2ebc
+GEO:38.24244149341125;21.73886666126052
+LOCATION:Germanou 78, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b807788a4de2f5e1124ffbb
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100221T000000Z
+DTEND:20100221T000000Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4b807788a4de2f5e1124ffbb
+URL:https://foursquare.com/svathis/checkin/4b807788a4de2f5e1124ffbb
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8063c0a4de2f5edfdafebb
+SUMMARY:Don Camillo e Peppone
+DTSTAMP:20190829T121100Z
+DTSTART:20100220T223500Z
+DTEND:20100220T223500Z
+DESCRIPTION:Don Camillo e Peppone\nGermanou 78\, 262 22 Πάτρα\, Αχαΐα\nhttp
+	s://foursquare.com/svathis/checkin/4b8063c0a4de2f5edfdafebb
+URL:https://foursquare.com/svathis/checkin/4b8063c0a4de2f5edfdafebb
+GEO:38.24244149341125;21.73886666126052
+LOCATION:Germanou 78, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7f1785a4de2f5e1456fbbb
+SUMMARY:Νότος Jazz Bar
+DTSTAMP:20190829T121100Z
+DTSTART:20100219T225800Z
+DTEND:20100219T225800Z
+DESCRIPTION:Νότος Jazz Bar\nΠατρέως 80\, 262 22 Πάτρα\, Αχαΐα\nhttps://four
+	square.com/svathis/checkin/4b7f1785a4de2f5e1456fbbb
+URL:https://foursquare.com/svathis/checkin/4b7f1785a4de2f5e1456fbbb
+GEO:38.24466618169899;21.73523789868304
+LOCATION:Πατρέως 80, 262 22 Πάτρα, Αχαΐα
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7a84f0a4de2f5e160bf0bb
+SUMMARY:Citrix
+DTSTAMP:20190829T121100Z
+DTSTART:20100216T114300Z
+DTEND:20100216T114300Z
+DESCRIPTION:Citrix\nE.O. Καστριτσίου 4\, Μαγούλα\, 265 04 Πάτρα\, Αχαΐα\nht
+	tps://foursquare.com/svathis/checkin/4b7a84f0a4de2f5e160bf0bb
+URL:https://foursquare.com/svathis/checkin/4b7a84f0a4de2f5e160bf0bb
+GEO:38.2759778205917;21.792171788744398
+LOCATION:E.O. Καστριτσίου 4, Μαγούλα, 265 04 Πάτρα, Αχαΐα
+END:VEVENT
+END:VCALENDAR

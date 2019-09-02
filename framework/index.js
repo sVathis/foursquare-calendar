@@ -13,7 +13,7 @@ function getEpoch(date) {
     return Math.round(date.getTime() / 1000);
   }
   
-async function retrieveItems(retrieveItemSetFunc, options, accessToken, callback) {
+async function retrieveItems(retrieveItemSetFunc, options, callback) {
   logger.debug("ENTERING: retrieveItems");
 
   options = options || {};
@@ -31,7 +31,7 @@ async function retrieveItems(retrieveItemSetFunc, options, accessToken, callback
     function(callback) {
       var passes = [],
         rc = function(callback) {
-          retrieveItemSetFunc(coreOffset, options, accessToken, callback);
+          retrieveItemSetFunc(coreOffset, options, callback);
           coreOffset += options.limit;
         };
       // TODO: This looks and feels STUPID. Alternative?
@@ -110,12 +110,13 @@ function parseYear(year) {
 }
 
 
-function prepareOptions(fromYear, toYear) {
+function prepareOptions(fromYear, toYear, access_token, concurrent_calls = 1) {
   var options = {
-    concurrentCalls: 6,
+    concurrentCalls: concurrent_calls,
     before: 0,
     after: 0,
     limit: 250,
+    accessToken: access_token
   };
 
   var y = ty = 0;
@@ -138,13 +139,13 @@ function prepareOptions(fromYear, toYear) {
 }
 
 
-async function generateEvents(fromYear, toYear, retrieveItemSetFunc, itemToEventFunc, access_token) {
+async function generateEvents(fromYear, toYear, retrieveItemSetFunc, itemToEventFunc, access_token, concurrent_calls = 1) {
 
-  var options = prepareOptions(fromYear, toYear);
+  var options = prepareOptions(fromYear, toYear, access_token, concurrent_calls);
 
   return new Promise(function(resolve, reject) {
 
-    retrieveItems(retrieveItemSetFunc,options, access_token, function (error, items) {
+    retrieveItems(retrieveItemSetFunc,options, function (error, items) {
 
       if (error) {
         console.error("Error: %s",error);

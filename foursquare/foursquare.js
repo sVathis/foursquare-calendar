@@ -97,7 +97,7 @@ async function CheckinToEvent(checkin, callback) {
     }
 }
 
-async function retrieveCheckinSet(offset, options, accessToken, callback) {
+async function retrieveCheckinSet(offset, options, callback) {
   logger.info("ENTERING: retrieveCheckinSet, offset=" + offset);
 
   var params = {
@@ -110,7 +110,7 @@ async function retrieveCheckinSet(offset, options, accessToken, callback) {
   if (options.after)
     params.afterTimestamp = framework.getEpoch(options.after);
 
-  Foursquare.Users.getSelfCheckins(params, accessToken, function success(error, results) {
+  Foursquare.Users.getSelfCheckins(params, options.accessToken, function success(error, results) {
     if(error) {
       callback(error);
     }
@@ -121,7 +121,7 @@ async function retrieveCheckinSet(offset, options, accessToken, callback) {
 }
 
 async function get(fromYear, toYear) {
-  return framework.generateEvents(fromYear, toYear, retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN)
+  return framework.generateEvents(fromYear, toYear, retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN, 6)
 };
 
 module.exports = {get, doSelfDetails, config};

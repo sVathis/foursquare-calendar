@@ -5,12 +5,7 @@ var
     nodeFoursquare = require('node-foursquare'),
     winston = require('winston'),
     framework = require('../framework'),
-    fetchTimeline = require('./fetch'),
-    fs = require('fs')
-
-
-
-
+    fetchTimeline = require('./fetch')
 
 var config = {
     'secrets' : {
@@ -103,7 +98,6 @@ async function retrieveTweetSet(offset, options, callback) {
 
   stream.on('data', (tweets, index) => {
     all = all.concat(tweets);
-
   })
 
   stream.on('error', (error) => {
@@ -113,12 +107,6 @@ async function retrieveTweetSet(offset, options, callback) {
 
   stream.on('info', (info) => {
     console.log("Done");
-
-    var str = JSON.stringify(all,null," ");
-    fs.writeFile('mytweets.json', str, function (err) {
-      if (err) throw err;
-
-    });
     callback(null, all);
   })
 

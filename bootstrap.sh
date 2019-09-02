@@ -8,4 +8,5 @@ func new --name foursquare -l javascript --template "Http Trigger"
 func new --name foursquareAll -l javascript --template "Http Trigger"
 func new --name foursquareByYear -l javascript --template "Http Trigger"
 func new --name foursquareYears -l javascript --template "Http Trigger"
+func new --name twitter -l javascript --template "Http Trigger"
 func azure functionapp publish svathis-calendar --nozip --javascript

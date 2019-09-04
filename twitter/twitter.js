@@ -33,7 +33,7 @@ const myopts = {
     accessToken: process.env.TWITTER_ACCESS_TOKEN,
     accessTokenSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET
   },
-  limit: 3200,
+  limit:  process.env.TWITTER_MAX_TWEETS,
 }
 
 var logger = winston.createLogger({

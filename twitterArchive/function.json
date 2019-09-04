@@ -1,0 +1,27 @@
+{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get"
+      ],
+      "route": "twitter/archive"
+    },
+    {
+      "type": "onedrive",
+      "name": "file",
+      "path": "Internet/twitter.com/tweet.js",
+      "userId": "spiros.vathis@gmail.com",
+      "identity": "userFromId",
+      "direction": "in"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    }
+  ]
+}

@@ -33,12 +33,12 @@ const myopts = {
   limit:  process.env.TWITTER_MAX_TWEETS,
 }
 
-var logger = winston.createLogger({
+var twitterlogger = winston.createLogger({
     transports: [
       new winston.transports.Console()]
   });
 
-async function retrieveTweetSet(offset, options, callback) {
+async function retrieveTweetSet(offset, options, logger, callback) {
   logger.info("ENTERING: retrieveTweetSet, offset=" + offset);
 
   let all = [];
@@ -50,19 +50,19 @@ async function retrieveTweetSet(offset, options, callback) {
   })
 
   stream.on('error', (error) => {
-    console.log("error!")
+    logger.error("Error: " + error)
     callback(error);
   })
 
   stream.on('info', (info) => {
-    console.log("Done");
+    logger.info("Done");
     callback(null, all);
   })
 
 }
 
 async function get() {
-  return framework.generateEvents(null, null, retrieveTweetSet, TweetToEvent, null)
+  return framework.generateEvents(null, null, retrieveTweetSet, TweetToEvent, null, twitterlogger)
 };
 
 module.exports = {get, config};

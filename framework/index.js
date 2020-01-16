@@ -2,18 +2,11 @@ var
     async = require("async"),
     winston = require('winston')
 
-
-
-var logger = winston.createLogger({
-      transports: [
-        new winston.transports.Console()]
-    });
-
 function getEpoch(date) {
     return Math.round(date.getTime() / 1000);
   }
   
-async function retrieveItems(retrieveItemSetFunc, options, callback) {
+async function retrieveItems(retrieveItemSetFunc, options, logger, callback) {
   logger.debug("ENTERING: retrieveItems");
 
   options = options || {};
@@ -31,7 +24,7 @@ async function retrieveItems(retrieveItemSetFunc, options, callback) {
     function(callback) {
       var passes = [],
         rc = function(callback) {
-          retrieveItemSetFunc(coreOffset, options, callback);
+          retrieveItemSetFunc(coreOffset, options, logger, callback);
           coreOffset += options.limit;
         };
       // TODO: This looks and feels STUPID. Alternative?
@@ -50,7 +43,7 @@ async function retrieveItems(retrieveItemSetFunc, options, callback) {
       });
     },
     function(error) {
-      logger.info("RETRIEVED: " + allResults.length + " checkins in " + passTotal + " pass(es) of " + options.concurrentCalls + " calls each.");
+      logger.info("RETRIEVED: " + allResults.length + " items in " + passTotal + " pass(es) of " + options.concurrentCalls + " calls each.");
       if(error) {
         logger.error(error);
         callback(error);
@@ -60,29 +53,6 @@ async function retrieveItems(retrieveItemSetFunc, options, callback) {
       }
     }
   );
-}
-
-function validateYear(year){
-  switch (year) {
-    case 2009:
-    case 2010:
-    case 2011:
-    case 2012:
-    case 2013:
-    case 2014:
-    case 2015:
-    case 2016:
-    case 2017:
-    case 2018:
-    case 2019:
-    case "all":
-    case "current":
-      break;
-    default:
-      throw ValidationError(year + "is not a valid year");
-      break;
-  }
-
 }
 
 function parseYear(year) {
@@ -100,6 +70,7 @@ function parseYear(year) {
     case "2017":
     case "2018":
     case "2019":
+    case "2020":
       return parseInt(year);
     case "all":
       return 0;
@@ -110,7 +81,7 @@ function parseYear(year) {
 }
 
 
-function prepareOptions(fromYear, toYear, access_token, concurrent_calls = 1) {
+function prepareOptions(fromYear, toYear, access_token, logger, concurrent_calls = 1) {
   var options = {
     concurrentCalls: concurrent_calls,
     before: 0,
@@ -139,25 +110,25 @@ function prepareOptions(fromYear, toYear, access_token, concurrent_calls = 1) {
 }
 
 
-async function generateEvents(fromYear, toYear, retrieveItemSetFunc, itemToEventFunc, access_token, concurrent_calls = 1) {
+async function generateEvents(fromYear, toYear, retrieveItemSetFunc, itemToEventFunc, access_token, logger, concurrent_calls = 1) {
 
-  var options = prepareOptions(fromYear, toYear, access_token, concurrent_calls);
+  var options = prepareOptions(fromYear, toYear, access_token, logger, concurrent_calls);
 
   return new Promise(function(resolve, reject) {
 
-    retrieveItems(retrieveItemSetFunc,options, function (error, items) {
+    retrieveItems(retrieveItemSetFunc,options, logger, function (error, items) {
 
       if (error) {
-        console.error("Error: %s",error);
+        logger.error("Error: "+ error);
         reject(error);
       }
 
       if (items) {
-        console.log("Data length: %d", items.length);
+        logger.info("Data length: " + items.length);
 
         async.map(items, itemToEventFunc, (err,results) => {
           if (err) {
-            console.error("Error: %s", err);
+            logger.error("Error: " + err);
             reject(err);
           }
 

@@ -30,7 +30,7 @@ var user_url;
 
 var event_cnt =0;
 
-var logger = winston.createLogger({
+var fsqlogger = winston.createLogger({
     transports: [
       new winston.transports.Console()]
   });
@@ -97,7 +97,7 @@ async function CheckinToEvent(checkin, callback) {
     }
 }
 
-async function retrieveCheckinSet(offset, options, callback) {
+async function retrieveCheckinSet(offset, options, logger, callback) {
   logger.info("ENTERING: retrieveCheckinSet, offset=" + offset);
 
   var params = {
@@ -121,7 +121,7 @@ async function retrieveCheckinSet(offset, options, callback) {
 }
 
 async function get(fromYear, toYear) {
-  return framework.generateEvents(fromYear, toYear, retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN, 6)
+  return framework.generateEvents(fromYear, toYear, retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN, fsqlogger, 6)
 };
 
 module.exports = {get, doSelfDetails, config};

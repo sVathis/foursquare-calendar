@@ -24,7 +24,6 @@ module.exports = async function (context, req) {
 
       context.res = {
         status: 200, /* Defaults to 200 */
-        //body: "Hello from Azure " + (req.query.name || req.body.name) + "\n" + process.env['FOURSQUARE_ACCESS_TOKEN'] + "\n" +value
         headers : { 'Content-Type': 'text/calendar; charset=utf-8',
                     'Content-Disposition': 'attachment; filename="'+fromYear+'-'+toYear+'".ics"'},
         body: value

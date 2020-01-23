@@ -1,0 +1,3 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/sVathis/social-media-events-to-calendar-framework

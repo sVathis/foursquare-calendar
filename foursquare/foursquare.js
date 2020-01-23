@@ -7,12 +7,13 @@ var
     framework = require('../framework')
 
 
+console.log(process.env['FOURSQUARECLIENTID'])
 
 
 var config = {
     'secrets' : {
-      'clientId' : process.env.FOURSQUARE_CLIENT_ID,
-      'clientSecret' : process.env.FOURSQUARE_CLIENT_SECRET,
+      'clientId' : process.env.FOURSQUARECLIENTID,
+      'clientSecret' : process.env.FOURSQUARECLIENTSECRET,
       'redirectUrl' : 'http://fondu.com/oauth/authorize'
     },
     winston : {
@@ -22,7 +23,7 @@ var config = {
   }
 }
 
-const  ACCESS_TOKEN = process.env['FOURSQUARE_ACCESS_TOKEN']
+const  ACCESS_TOKEN = process.env['FOURSQUAREACCESSTOKEN']
 
 var Foursquare = nodeFoursquare(config);
 
@@ -121,6 +122,7 @@ async function retrieveCheckinSet(offset, options, logger, callback) {
 }
 
 async function get(fromYear, toYear) {
+  console.log(process.env['FOURSQUARECLIENTID'])
   return framework.generateEvents(fromYear, toYear, retrieveCheckinSet, CheckinToEvent, ACCESS_TOKEN, fsqlogger, 6)
 };
 

@@ -1,9 +1,9 @@
 var fs = require('fs');
 var settings = JSON.parse(fs.readFileSync('local.settings.json', 'utf8'));
 
-process.env["FOURSQUARE_ACCESS_TOKEN"] = settings.Values.FOURSQUARE_ACCESS_TOKEN
-process.env["FOURSQUARE_CLIENT_ID"] = settings.Values.FOURSQUARE_CLIENT_ID
-process.env["FOURSQUARE_CLIENT_SECRET"] = settings.Values.FOURSQUARE_CLIENT_SECRET
+process.env["FOURSQUAREACCESSTOKEN"] = settings.Values.FOURSQUAREACCESSTOKEN
+process.env["FOURSQUARECLIENTID"] = settings.Values.FOURSQUARECLIENTID
+process.env["FOURSQUARECLIENTSECRET"] = settings.Values.FOURSQUARECLIENTSECRET
 
 const httpFunction = require('./index');
 const context = require('../testing/defaultContext')
@@ -11,7 +11,6 @@ const context = require('../testing/defaultContext')
 test('Http trigger should return known text', async () => {
 
     const request = {
-//        query: { name: 'Bill' }
     };
 
     await httpFunction(context, request);

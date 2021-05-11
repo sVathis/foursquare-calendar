@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "ics": "^2.15.1",
     "jest": "^24.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "node-foursquare": "^0.4.6",
     "request": "^2.88.0",
